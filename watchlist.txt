@@ -1,0 +1,52 @@
+# SWING-WATCHLIST
+# Ein Ticker pro Zeile (Yahoo-Schreibweise). Alles hinter # wird ignoriert.
+# Indizes, Sektor-ETFs und Makro-Ticker sind im Skript fest eingebaut.
+# Doppelte Ticker werden automatisch entfernt.
+
+# Core / Qualitäts-Werte
+AAPL
+GOOGL
+META
+MSFT
+JPM
+WMT
+V
+MA
+
+# Premium / höhere Optionsprämien
+NVDA
+AMD
+AVGO
+QCOM
+CRM
+ORCL
+AMZN
+
+# Diversifikation / defensiver
+XOM
+CAT
+HD
+COST
+AMGN
+JNJ
+
+# High-IV / aggressiver
+TSLA
+COIN
+PLTR
+SOXL   # 3x gehebelter ETF
+TSLL   # 2x gehebelter ETF
+
+# Weitere Kandidaten
+UBER
+MU
+INTC
+FCX
+
+# Bereits im Portfolio / CC- bzw. Recovery-Kandidaten
+JD
+TSM
+SMCI
+SOFI
+HOOD
+AGX
