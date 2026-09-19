@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-19T00:30+00:00",
-  "last_bar": "2026-09-17",
+  "generated_utc": "2026-09-19T19:40+00:00",
+  "last_bar": "2026-09-18",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -39,8 +39,15 @@
     "HOOD",
     "AGX"
   ],
-  "loaded": 67,
+  "universe_size": 473,
+  "loaded": 540,
   "failed": [],
   "vix_term_ratio": 0.812,
-  "rsp_spy_rs_1m": -2.32
+  "rsp_spy_rs_1m": -3.69,
+  "news_tickers": [
+    "COIN",
+    "HOOD",
+    "QCOM",
+    "SOXL"
+  ]
 }
