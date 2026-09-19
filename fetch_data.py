@@ -21,12 +21,29 @@ DATA = ROOT / "data"
 BENCH = "SPY"
 OHLCV_BARS = 300
 
+# Öffentliche, frei zugängliche S&P-500-Konstituentenliste (täglich aktuell genug für ein Screening)
+SP500_URL = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
+CANDIDATE_LIQUIDITY_MIN_M = 20   # Mindest-Dollarvolumen (20T-Schnitt) in Mio. USD
+NEWS_MOVE_THRESHOLD = 4.0        # ab dieser 1-Tages-Bewegung (%) wird News gezogen
+NEWS_MAX_PER_TICKER = 3
+
 # Fest eingebaut: Markt, Breite-Proxy, Sektoren, Makro, Credit, Commodities
 MARKET = ["SPY", "QQQ", "IWM", "DIA", "RSP"]
 SECTORS = ["XLK", "XLE", "XLB", "XLI", "XLF", "XLV", "XLY", "XLP",
            "XLU", "XLRE", "XLC", "SMH", "XME", "COPX", "GDX"]
 MACRO = ["^VIX", "^VIX3M", "^TNX", "^IRX", "DX-Y.NYB",
          "TLT", "HYG", "LQD", "CL=F", "GC=F", "HG=F"]
+
+
+def load_sp500() -> list[str]:
+    """S&P-500-Ticker für das breite Screening. Bei Fehler: leere Liste (Pipeline läuft trotzdem weiter)."""
+    try:
+        df = pd.read_csv(SP500_URL)
+        tickers = df["Symbol"].str.replace(".", "-", regex=False).str.strip().str.upper().tolist()
+        return tickers
+    except Exception as e:  # noqa: BLE001
+        print(f"S&P-500-Liste konnte nicht geladen werden: {e}")
+        return []
 
 
 def load_watchlist() -> list[str]:
@@ -79,6 +96,60 @@ def distribution_days(df: pd.DataFrame, window: int = 25) -> int:
     c, v = df.Close, df.Volume.replace(0, np.nan)
     dd = (c.pct_change() < -0.002) & (v > v.shift())
     return int(dd.tail(window).sum())
+
+
+def score_candidate(r: pd.Series) -> float:
+    """Grobes, deterministisches Scoring fuers breite Screening (0 bis 100).
+    Bewusst einfacher als das manuelle Scoring aus der Chat-Analyse, aber gleiche Grundidee:
+    Trend, relative Staerke, Nicht-Extended, saubere Struktur, gesundes Volumen, Liquiditaet."""
+    if pd.isna(r.get("rs_1m_vs_spy")) or r.get("dollar_vol_20d_m", 0) < CANDIDATE_LIQUIDITY_MIN_M:
+        return -1.0  # zu illiquide oder keine RS-Basis (z. B. Benchmark selbst)
+
+    s = 0.0
+    s += 14 if r.ma_stack_bull else (7 if r.close > r.sma200 else 0)          # Trend, 15
+    s += max(0, min(15, 7 + 0.35 * r.rs_1m_vs_spy))                            # RS 1M, 15
+    s += max(0, min(10, 5 + 0.25 * r.rs_3m_vs_spy))                            # RS 3M, 10
+    ext = abs(r.ext_21ema_atr)                                                  # Extension, 15
+    s += 13 if ext < 0.5 else (15 if ext < 1.5 else (7 if ext < 3 else 1))
+    struct = 6
+    if r.inside_day or r.nr7:
+        struct += 5
+    dist_to_high = (r.close / r.prior_20d_high - 1) * 100 if r.prior_20d_high else -99
+    if -3 <= dist_to_high <= 1:
+        struct += 4
+    elif dist_to_high > 3:
+        struct -= 3
+    s += max(0, min(15, struct))                                               # Struktur, 15
+    vr = r.vol_ratio_50d
+    s += 8 if 1.1 <= vr <= 2.2 else (5 if vr < 1.1 else (3 if r.chg_1d_pct > 0 else 1))  # Volumen, 10
+    s += max(0, min(10, 4 + 0.06 * -r.dist_52w_high_pct * -1 + 6))  # Naehe 52W-Hoch bevorzugt, 10 (grob)
+    s += max(0, min(10, 10 - r.dist_days_25 * 0.7))                             # wenig Distribution, 10
+    return round(min(100, max(0, s)), 1)
+
+
+def fetch_news(tickers: list[str]) -> dict:
+    """Holt aktuelle Schlagzeilen (yfinance, kein API-Key noetig) fuer eine kleine Liste von Tickern.
+    Nur fuer Titel mit auffaelliger Tagesbewegung aufgerufen, nicht fuer das ganze Universum."""
+    news = {}
+    for t in tickers:
+        try:
+            items = yf.Ticker(t).news or []
+        except Exception as e:  # noqa: BLE001
+            print(f"News-Fehler {t}: {e}")
+            continue
+        cleaned = []
+        for it in items[:NEWS_MAX_PER_TICKER]:
+            c = it.get("content", it)  # yfinance-Schema variiert je nach Version
+            title = c.get("title") or it.get("title")
+            publisher = (c.get("provider") or {}).get("displayName") if isinstance(c.get("provider"), dict) else it.get("publisher")
+            link = (c.get("canonicalUrl") or {}).get("url") if isinstance(c.get("canonicalUrl"), dict) else it.get("link")
+            published = c.get("pubDate") or it.get("providerPublishTime")
+            if title:
+                cleaned.append({"title": title, "publisher": publisher, "link": link, "published": published})
+        if cleaned:
+            news[t] = cleaned
+        time.sleep(0.5)
+    return news
 
 
 def metrics(t: str, df: pd.DataFrame, bench: pd.Series | None, group: str) -> dict:
@@ -139,9 +210,13 @@ def metrics(t: str, df: pd.DataFrame, bench: pd.Series | None, group: str) -> di
 def main() -> None:
     DATA.mkdir(exist_ok=True)
     watch = load_watchlist()
+    sp500 = load_sp500()
+    universe = [t for t in sp500 if t not in watch]  # breites Screening, Watchlist nicht doppelt zaehlen
+
     groups = {**{t: "macro" for t in MACRO}, **{t: "sector" for t in SECTORS},
-              **{t: "market" for t in MARKET}, **{t: "watchlist" for t in watch}}
-    tickers = list(dict.fromkeys(MARKET + SECTORS + MACRO + watch))
+              **{t: "market" for t in MARKET}, **{t: "watchlist" for t in watch},
+              **{t: "universe" for t in universe}}
+    tickers = list(dict.fromkeys(MARKET + SECTORS + MACRO + watch + universe))
 
     data, failed = fetch(tickers)
     if BENCH not in data:
@@ -162,24 +237,43 @@ def main() -> None:
         bars.append(tail)
 
     summary = pd.DataFrame(rows)
-    order = {"market": 0, "macro": 1, "sector": 2, "watchlist": 3}
+    order = {"market": 0, "macro": 1, "sector": 2, "watchlist": 3, "universe": 4}
     summary = summary.sort_values(["group", "ticker"], key=lambda s: s.map(order) if s.name == "group" else s)
+
+    # Nur fuers breite Screening: Score berechnen, Top-Kandidaten separat ausgeben (nicht in summary.csv, bleibt schlank)
+    uni_mask = summary.group == "universe"
+    summary.loc[uni_mask, "candidate_score"] = summary.loc[uni_mask].apply(score_candidate, axis=1)
+    candidates = (summary.loc[uni_mask & (summary.candidate_score >= 0)]
+                  .sort_values("candidate_score", ascending=False).head(20))
+    keep_cols = ["ticker", "candidate_score", "close", "chg_1d_pct", "ma_stack_bull", "ext_21ema_atr",
+                 "rs_1m_vs_spy", "rs_3m_vs_spy", "inside_day", "nr7", "dist_52w_high_pct",
+                 "vol_ratio_50d", "dollar_vol_20d_m", "dist_days_25"]
+    candidates[keep_cols].round(3).to_csv(DATA / "candidates.csv", index=False)
+    summary = summary.drop(columns=["candidate_score"])
     summary.round(3).to_csv(DATA / "summary.csv", index=False)
 
     ohlcv = pd.concat(bars).reset_index().rename(columns={"index": "Date"})
     ohlcv["Date"] = pd.to_datetime(ohlcv["Date"]).dt.date
     ohlcv.round(4).to_csv(DATA / "ohlcv.csv", index=False)
 
+    # News nur fuer auffaellige Mover ziehen (Watchlist + Top-Kandidaten), nicht fuers ganze Universum
+    movers = summary[(summary.group == "watchlist") & (summary.chg_1d_pct.abs() >= NEWS_MOVE_THRESHOLD)].ticker.tolist()
+    movers += candidates[candidates.chg_1d_pct.abs() >= NEWS_MOVE_THRESHOLD].ticker.tolist()
+    news = fetch_news(sorted(set(movers)))
+    (DATA / "news.json").write_text(json.dumps(news, indent=2, ensure_ascii=False), encoding="utf-8")
+
     vix, vix3m = data.get("^VIX"), data.get("^VIX3M")
     meta = {
         "generated_utc": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
         "last_bar": bench.index[-1].date().isoformat(),
         "watchlist": watch,
+        "universe_size": len(universe),
         "loaded": len(data),
         "failed": sorted(set(failed)),
         "vix_term_ratio": round(float(vix.Close.iloc[-1] / vix3m.Close.iloc[-1]), 3)
         if vix is not None and vix3m is not None else None,
         "rsp_spy_rs_1m": round(pct(data["RSP"].Close, 21) - pct(bench, 21), 2) if "RSP" in data else None,
+        "news_tickers": sorted(news.keys()),
     }
     (DATA / "meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
     print(json.dumps(meta, indent=2))
@@ -187,3 +281,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
