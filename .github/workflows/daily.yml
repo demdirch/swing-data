@@ -25,6 +25,10 @@ jobs:
       - name: Daten laden
         run: python fetch_data.py
 
+      - name: 4h-Daten laden
+        run: python fetch_intraday.py
+        continue-on-error: true      # 4h-Fehler blockieren den Tages-Commit nicht
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
@@ -39,3 +43,4 @@ jobs:
           done
           echo "Push endgueltig fehlgeschlagen nach 5 Versuchen."
           exit 1
+
