@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-19T19:40+00:00",
-  "last_bar": "2026-09-18",
+  "generated_utc": "2026-09-22T06:21+00:00",
+  "last_bar": "2026-09-21",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -42,12 +42,17 @@
   "universe_size": 473,
   "loaded": 540,
   "failed": [],
-  "vix_term_ratio": 0.812,
-  "rsp_spy_rs_1m": -3.69,
+  "vix_term_ratio": 0.822,
+  "rsp_spy_rs_1m": -4.77,
   "news_tickers": [
-    "COIN",
-    "HOOD",
+    "AMD",
+    "CRWD",
+    "GDDY",
+    "INTC",
+    "META",
     "QCOM",
-    "SOXL"
+    "SMCI",
+    "SOXL",
+    "TSLL"
   ]
 }

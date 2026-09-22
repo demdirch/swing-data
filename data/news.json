@@ -1,65 +1,151 @@
 {
-  "COIN": [
+  "AMD": [
     {
-      "title": "T. Rowe Price's Head Of Digital Assets Says Tokenized Stocks Must Be 'Instantly Fungible,' Agency Rules Can Move Without CLARITY Act",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/t-rowe-price-tokenized-stocks-instantly-fungible-or-bust/cZtxBEURBEu",
-      "published": "2026-09-19T17:33:01Z"
+      "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "published": "2026-09-21T08:02:14Z"
     },
     {
-      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T16:34:51Z"
+      "title": "AMD joins trillion-dollar chipmaker club as AI demand surges",
+      "publisher": "Euronews",
+      "link": "https://www.euronews.com/2026/09/22/amd-joins-trillion-dollar-chipmaker-club-as-ai-demand-surges",
+      "published": "2026-09-22T05:00:48Z"
     },
     {
-      "title": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
+      "title": "Why Did AMD, WBD, MRNA Stocks Surge To 52-Week Highs Today?",
       "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/coinbase-apple-tesla-perpetual-futures-coin-tsla-aapl/cZtxEhbRBEs",
-      "published": "2026-09-19T15:11:11Z"
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-amd-wbd-mrna-stocks-surge-to-52-week-highs-today/cZMPBXGRBIy",
+      "published": "2026-09-22T03:39:24Z"
     }
   ],
-  "HOOD": [
+  "CRWD": [
     {
-      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T16:34:51Z"
+      "title": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html",
+      "published": "2026-09-22T00:30:25Z"
     },
     {
-      "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:00:39Z"
+      "title": "3 U.S. Growth Stocks Facing The Biggest AI Spending Test Right Now",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-u-growth-stocks-facing-221805235.html",
+      "published": "2026-09-21T22:18:05Z"
     },
     {
-      "title": "Coinbase Stock Jumped 12% Yesterday. Bitcoin’s Breakout Wasn’t the Whole Story.",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/coinbase-stock-jumped-12-yesterday-bitcoins-breakout-wasnt-the-whole-story?ref=yahoofinance",
-      "published": "2026-09-19T09:09:45Z"
+      "title": "How to Play CrowdStrike Stock at All-Time Highs",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/4718907/how-to-play-crowdstrike-stock-at-all-time-highs",
+      "published": "2026-09-21T20:54:05Z"
+    }
+  ],
+  "GDDY": [
+    {
+      "title": "Is GoDaddy (GDDY) Undervalued As Its Growth Narrative Faces A Fresh Sentiment Test?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/godaddy-gddy-undervalued-growth-narrative-221507783.html",
+      "published": "2026-09-18T22:15:07Z"
+    },
+    {
+      "title": "Will AI Cost Optimization Improve Wix's Margin Profile in 2026?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-cost-optimization-improve-wixs-155700768.html",
+      "published": "2026-09-18T15:57:00Z"
+    },
+    {
+      "title": "Autodesk, C3.ai, GoDaddy, Rapid7, and Sprout Social Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autodesk-c3-ai-godaddy-rapid7-012330648.html",
+      "published": "2026-09-15T01:23:30Z"
+    }
+  ],
+  "INTC": [
+    {
+      "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "published": "2026-09-21T08:02:14Z"
+    },
+    {
+      "title": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-sees-ai-cpu-051505418.html",
+      "published": "2026-09-22T05:15:05Z"
+    },
+    {
+      "title": "ARM, Intel, AMD Surge As Meta’s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/arm-intel-amd-surge-as-meta-s-muse-ai-fuels-fresh-chip-demand-bets-retail-turns-extremely-bullish/cZMP4iNRBIq",
+      "published": "2026-09-22T01:50:51Z"
+    }
+  ],
+  "META": [
+    {
+      "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "published": "2026-09-21T08:02:14Z"
+    },
+    {
+      "title": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
+      "published": "2026-09-21T13:50:33Z"
+    },
+    {
+      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "published": "2026-09-21T10:00:00Z"
     }
   ],
   "QCOM": [
     {
-      "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
+      "title": "Why Corning (GLW) Stock Is Trading Up Today",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html",
+      "published": "2026-09-22T01:42:25Z"
+    },
+    {
+      "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
+      "published": "2026-09-22T00:22:25Z"
+    },
+    {
+      "title": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/trump-xi-summit-best-day/",
+      "published": "2026-09-21T23:20:00Z"
+    }
+  ],
+  "SMCI": [
+    {
+      "title": "Super Micro Computer (SMCI) Is Up 12.1% After Record AI Backlog Sparks Major Capacity Expansion",
       "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html",
-      "published": "2026-09-19T04:19:37Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-12-221802270.html",
+      "published": "2026-09-21T22:18:02Z"
     },
     {
-      "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/18/qualcomm-drops-6-as-past-months-rally-unwinds-skyworks-and-qorvo-slip/",
-      "published": "2026-09-18T17:58:45Z"
+      "title": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/stocks-to-watch-warner-bros-intel-strategy-VwQlqTeLLc9SL0RAX8qF?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-21T21:14:49Z"
     },
     {
-      "title": "Why Does NVDA Stock Carry The Lowest Clean Multiple In Its Peer Group?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/615854/why-does-nvda-stock-carry-the-lowest-clean-multiple-in-its-peer-group/2026-09-18",
-      "published": "2026-09-18T16:40:36Z"
+      "title": "AMD, Intel, Meta, Warner Bros., Moderna, Grail, Strategy, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-7769c3ad?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-21T20:40:00Z"
     }
   ],
   "SOXL": [
+    {
+      "title": "Why Direxion Daily Semiconductor Bull 3X ETF Just Popped",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/21/why-direxion-daily-semiconductor-bull-3x-etf-just/",
+      "published": "2026-09-21T15:55:02Z"
+    },
     {
       "title": "Why Direxion Daily Semiconductor Bull 3X ETF Dropped Today",
       "publisher": "Motley Fool",
@@ -71,12 +157,26 @@
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/roger-altman-says-ai-is-the-greatest-threat-facing-the-world/cZtm5XBRBRp",
       "published": "2026-09-14T13:45:20Z"
+    }
+  ],
+  "TSLL": [
+    {
+      "title": "ETF League Tables: Direxion Drops $95M",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-direxion-drops-95m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "published": "2026-08-28T21:00:31Z"
     },
     {
-      "title": "Ed Yardeni Says ‘I’m Not Particularly Concerned’ About AI Slowdown Fears, Maintains 8,400 Year-End S&P 500 Target",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ai-stocks-slide-slowdown-fears-ed-yardeni-not-particularly-concerned/cZtmbt4RBRZ",
-      "published": "2026-09-14T11:31:25Z"
+      "title": "The $5 Billion Leveraged Tesla ETF That Doubles Every Move",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/08/05/the-5-billion-leveraged-tesla-etf-that-doubles-every-move/",
+      "published": "2026-08-05T10:13:14Z"
+    },
+    {
+      "title": "Single-Stock ETFs Explained: The Fastest-Growing — and Riskiest — Corner of the ETF Market",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/etf-basics/single-stock-etfs-explained-fastest-growing-and-riskiest-corner-etf-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "published": "2026-08-03T23:19:34Z"
     }
   ]
 }
