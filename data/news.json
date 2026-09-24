@@ -1,42 +1,22 @@
 {
-  "AMD": [
-    {
-      "title": "Should investors play AI bottlenecks over social media stocks?",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/investors-play-ai-bottlenecks-over-173922161.html",
-      "published": "2026-09-22T17:39:22Z"
-    },
-    {
-      "title": "The return of the AI rally: What's fueling the latest push into tech?",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html",
-      "published": "2026-09-22T12:52:06Z"
-    },
-    {
-      "title": "Shopify Stock Jumps on Meta Muse Deal: Time to Buy?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-stock-jumps-meta-muse-232700314.html",
-      "published": "2026-09-22T23:27:00Z"
-    }
-  ],
   "CRWD": [
     {
-      "title": "These are the cybersecurity stocks built for the AI era",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/cybersecurity-stocks-built-ai-era-120000421.html",
-      "published": "2026-09-22T12:00:00Z"
+      "title": "Why CrowdStrike (CRWD) Stock Is Up Today",
+      "publisher": "StockStory",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-crowdstrike-crwd-stock-today-190516175.html",
+      "published": "2026-09-23T19:05:16Z"
     },
     {
-      "title": "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/articles/616150/is-crowdstrike-stock-a-buy-today-as-ai-threats-lift-demand/2026-09-22",
-      "published": "2026-09-22T15:36:01Z"
+      "title": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/trump-microsoft-amazon-oracle-stock-ai-trade-6b72c193?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-23T18:41:00Z"
     },
     {
-      "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "title": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/09/22/crowdstrike-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/",
-      "published": "2026-09-22T15:35:56Z"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-midday-sept-23-stocks-slip-as-treasury-yields-hit-19-year-high/",
+      "published": "2026-09-23T16:54:23Z"
     }
   ],
   "GDDY": [
@@ -59,84 +39,24 @@
       "published": "2026-09-15T01:23:30Z"
     }
   ],
-  "INTC": [
+  "MU": [
     {
-      "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
-      "published": "2026-09-22T15:12:17Z"
-    },
-    {
-      "title": "The return of the AI rally: What's fueling the latest push into tech?",
+      "title": "AI magic sends markets higher, plus one-on-one with IBM vice chair",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html",
-      "published": "2026-09-22T12:52:06Z"
+      "link": "https://finance.yahoo.com/video/ai-magic-sends-markets-higher-143210140.html",
+      "published": "2026-09-23T14:32:10Z"
     },
     {
-      "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/09/22/asml-vs-intel-ai-chip-stock-better-buy-2026/",
-      "published": "2026-09-22T23:55:01Z"
-    }
-  ],
-  "META": [
-    {
-      "title": "Meta doesn't need the best AI model — it has something better: you.\n\nWhile OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out the middlemen and becoming the marketplace itself.\n\nWould you actually use an AI agent that knows you this well?\n\nWatch the full episode, In The Loop, on Youtube.",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/meta-doesnt-best-ai-model-230704784.html",
-      "published": "2026-09-22T23:07:04Z"
-    },
-    {
-      "title": "Meta's Muse AI teams up with Shopify, lifting its stock",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/metas-muse-ai-teams-up-with-shopify-lifting-its-stock-195026601.html",
-      "published": "2026-09-22T19:50:26Z"
-    },
-    {
-      "title": "Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/meta-muse-ai-may-throw-gas-on-the-labor-displacement-problem--but-its-not-all-doom-and-gloom-150747149.html",
-      "published": "2026-09-22T15:07:47Z"
-    }
-  ],
-  "QCOM": [
-    {
-      "title": "Meta’s Muse just changed the AI game",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/meta-muse-just-changed-ai-213133381.html",
-      "published": "2026-09-22T21:31:33Z"
-    },
-    {
-      "title": "Qualcomm CFO on agentic AI and the race to the edge",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/qualcomm-cfo-on-agentic-ai-and-the-race-to-the-edge-212500658.html",
-      "published": "2026-09-22T21:25:00Z"
-    },
-    {
-      "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/qualcomm-launches-two-new-smartphone-chips-as-ai-push-intensifies-qcom-stock-edges-lower-after-hours/cZM5bWWRB7i",
-      "published": "2026-09-22T21:47:40Z"
-    }
-  ],
-  "SMCI": [
-    {
-      "title": "3 AI Stocks With Revenue Growth Up To 42%",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-221527315.html",
-      "published": "2026-09-22T22:15:27Z"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Stock Moves 1.07%: What You Should Know",
+      "title": "Earnings Outlook Remains Upbeat: A Closer Look",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-214507281.html",
-      "published": "2026-09-22T21:45:07Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-outlook-remains-upbeat-closer-220500751.html",
+      "published": "2026-09-23T22:05:00Z"
     },
     {
-      "title": "Super Micro Computer (SMCI) Is Up 12.1% After Record AI Backlog Sparks Major Capacity Expansion",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-12-221802270.html",
-      "published": "2026-09-21T22:18:02Z"
+      "title": "Top Research Reports for Micron, Costco & Interactive Brokers",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-micron-costco-210700036.html",
+      "published": "2026-09-23T21:07:00Z"
     }
   ],
   "SOXL": [
@@ -157,26 +77,6 @@
       "publisher": "Stocktwits",
       "link": "https://stocktwits.com/news-articles/markets/equity/roger-altman-says-ai-is-the-greatest-threat-facing-the-world/cZtm5XBRBRp",
       "published": "2026-09-14T13:45:20Z"
-    }
-  ],
-  "TSLL": [
-    {
-      "title": "ETF League Tables: Direxion Drops $95M",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-direxion-drops-95m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "published": "2026-08-28T21:00:31Z"
-    },
-    {
-      "title": "The $5 Billion Leveraged Tesla ETF That Doubles Every Move",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/08/05/the-5-billion-leveraged-tesla-etf-that-doubles-every-move/",
-      "published": "2026-08-05T10:13:14Z"
-    },
-    {
-      "title": "Single-Stock ETFs Explained: The Fastest-Growing — and Riskiest — Corner of the ETF Market",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/etf-basics/single-stock-etfs-explained-fastest-growing-and-riskiest-corner-etf-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "published": "2026-08-03T23:19:34Z"
     }
   ]
 }
