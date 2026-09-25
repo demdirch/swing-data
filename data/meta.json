@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-24T00:46+00:00",
-  "last_bar": "2026-09-22",
+  "generated_utc": "2026-09-25T00:42+00:00",
+  "last_bar": "2026-09-23",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -42,12 +42,7 @@
   "universe_size": 473,
   "loaded": 540,
   "failed": [],
-  "vix_term_ratio": 0.838,
-  "rsp_spy_rs_1m": -4.34,
-  "news_tickers": [
-    "CRWD",
-    "GDDY",
-    "MU",
-    "SOXL"
-  ]
+  "vix_term_ratio": 0.85,
+  "rsp_spy_rs_1m": -5.13,
+  "news_tickers": []
 }
