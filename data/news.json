@@ -1,1 +1,42 @@
-{}
+{
+  "DELL": [
+    {
+      "title": "Update: Dow Snaps 3-Day Losing Streak as Oil Retreats; Wall Street Logs Weekly Gains",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-snaps-3-day-losing-205628233.html",
+      "published": "2026-09-25T20:56:28Z"
+    },
+    {
+      "title": "What Was Cisco Telling You Before Its Stock Ran?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/articles/616644/what-was-cisco-telling-you-before-its-stock-ran/2026-09-25",
+      "published": "2026-09-25T20:25:53Z"
+    },
+    {
+      "title": "Dell Stock Jumps 3.5% as Gemini Enters the XPS Franchise",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-jumps-3-5-175202479.html",
+      "published": "2026-09-25T17:52:02Z"
+    }
+  ],
+  "SMCI": [
+    {
+      "title": "What's Going On With Super Micro Stock Thursday",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-super-micro-stock-182824959.html",
+      "published": "2026-09-25T18:28:24Z"
+    },
+    {
+      "title": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-super-micro-ai-042751635.html",
+      "published": "2026-09-25T04:27:51Z"
+    },
+    {
+      "title": "SPY’s 9.45 Basis Points Hides $6,450 a Decade on $100,000 Versus Cheaper Peers",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/09/24/spys-9-45-basis-points-hides-6450-a-decade-on-100000-versus-cheaper-peers/",
+      "published": "2026-09-24T21:51:06Z"
+    }
+  ]
+}
