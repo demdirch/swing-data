@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-09-26T00:48+00:00",
-  "last_bar": "2026-09-24",
+  "generated_utc": "2026-09-29T02:13+00:00",
+  "last_bar": "2026-09-28",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -42,10 +42,14 @@
   "universe_size": 473,
   "loaded": 540,
   "failed": [],
-  "vix_term_ratio": 0.829,
-  "rsp_spy_rs_1m": -5.25,
+  "vix_term_ratio": 0.882,
+  "rsp_spy_rs_1m": -4.47,
   "news_tickers": [
-    "CRL",
-    "META"
+    "INTC",
+    "META",
+    "PANW",
+    "QCOM",
+    "SOXL",
+    "TSLL"
   ]
 }
