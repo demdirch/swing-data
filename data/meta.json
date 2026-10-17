@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-16T00:37+00:00",
+  "generated_utc": "2026-10-17T00:43+00:00",
   "last_bar": "2026-10-15",
   "watchlist": [
     "AAPL",
@@ -44,7 +44,7 @@
   "failed": [
     "VYLR"
   ],
-  "vix_term_ratio": 0.89,
+  "vix_term_ratio": 0.975,
   "rsp_spy_rs_1m": -0.94,
   "news_tickers": []
 }
