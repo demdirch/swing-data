@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-04T02:35+00:00",
-  "last_bar": "2026-11-03",
+  "generated_utc": "2026-11-05T02:42+00:00",
+  "last_bar": "2026-11-04",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -45,12 +45,25 @@
     "KVUE",
     "VYLR"
   ],
-  "vix_term_ratio": 0.979,
-  "rsp_spy_rs_1m": 6.5,
+  "vix_term_ratio": 0.884,
+  "rsp_spy_rs_1m": 6.76,
   "news_tickers": [
+    "AAPL",
     "AGX",
+    "AMZN",
+    "CAT",
     "COIN",
-    "ORCL",
-    "SOXL"
+    "DVA",
+    "EL",
+    "HD",
+    "JPM",
+    "MSFT",
+    "MU",
+    "QCOM",
+    "SMCI",
+    "SOXL",
+    "TSLL",
+    "UBER",
+    "XOM"
   ]
 }
