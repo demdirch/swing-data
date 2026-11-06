@@ -1,265 +1,371 @@
 {
-  "AAPL": [
-    {
-      "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
-      "published": "2026-11-04T15:25:48Z"
-    },
-    {
-      "title": "Post-election gridlock might be a bullish sign for Apple,",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/post-election-gridlock-might-be-a-bullish-sign-for-apple-150824062.html",
-      "published": "2026-11-04T15:08:24Z"
-    },
-    {
-      "title": "Why the Democrat blue wave could be a good thing for Apple stock",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-the-democrat-blue-wave-could-be-a-good-thing-for-apple-stock-100051134.html",
-      "published": "2026-11-04T10:00:51Z"
-    }
-  ],
   "AGX": [
     {
-      "title": "Titan America (TTAM) Lags Q3 Earnings and Revenue Estimates",
+      "title": "Can Argan Keep Its Earnings Streak Alive as Backlog Slips Further?",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-america-ttam-lags-q3-234521603.html",
-      "published": "2026-11-04T23:45:21Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/argan-keep-earnings-streak-alive-142700557.html",
+      "published": "2026-11-05T14:27:00Z"
     },
     {
-      "title": "Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argan-agx-shares-fall-record-152439057.html",
-      "published": "2026-11-04T15:24:39Z"
+      "title": "Gibraltar Industries (ROCK) Q3 Earnings and Revenues Miss Estimates",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gibraltar-industries-rock-q3-earnings-133506137.html",
+      "published": "2026-11-05T13:35:06Z"
     },
     {
-      "title": "Knife River (KNF) Misses Q3 Earnings and Revenue Estimates",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/knife-river-knf-misses-q3-124003181.html",
-      "published": "2026-11-03T12:40:03Z"
+      "title": "Earnings Beat Might Change The Case For Argan Stock",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-might-change-case-111001932.html",
+      "published": "2026-11-05T11:10:01Z"
     }
   ],
-  "AMZN": [
+  "AMD": [
     {
-      "title": "Three reasons stocks are moving higher after the midterms",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/three-reasons-stocks-are-moving-higher-after-the-midterms-152243298.html",
-      "published": "2026-11-04T15:22:43Z"
+      "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html",
+      "published": "2026-11-05T17:28:25Z"
     },
     {
-      "title": "Why tech earnings are facing an unprecedented high bar",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/why-tech-earnings-facing-unprecedented-130000959.html",
-      "published": "2026-11-04T13:00:00Z"
+      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+      "published": "2026-11-05T13:31:00Z"
     },
     {
-      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
-      "published": "2026-11-05T02:33:01Z"
+      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/amd-ceo-su-on-earnings-outlook-new-starbucks-holiday-menu-and-hilton-ceo-on-hotel-demand-150453106.html",
+      "published": "2026-11-05T15:04:53Z"
+    }
+  ],
+  "AVGO": [
+    {
+      "title": "Broadcom (AVGO) Stock Could Be 37% Undervalued Despite Fresh AI Demand News",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-could-37-021738809.html",
+      "published": "2026-11-06T02:17:38Z"
+    },
+    {
+      "title": "Chip Stocks Fall on AI Regulation Fears",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T22:33:13Z"
+    },
+    {
+      "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/",
+      "published": "2026-11-05T22:09:38Z"
     }
   ],
   "CAT": [
     {
-      "title": "Dow Rallies 1,590 Points on Midterm Relief: Stock Market Today",
-      "publisher": "Kiplinger",
-      "link": "https://www.kiplinger.com/investing/stocks/dow-rallies-1-570-points-on-midterm-relief-stock-market-today",
-      "published": "2026-11-04T21:12:48Z"
+      "title": "Industrial Stocks Drop Amid Fears of AI Data Center Slowdown",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/industrial-stocks-drop-amid-fears-of-ai-data-center-slowdown-M2ehv9f5DVkImxtpdJ5i?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-06T00:00:07Z"
     },
     {
-      "title": "The Election Flipped Congress. It Also Flipped the Market.",
+      "title": "Caterpillar Sinks Another 6%, Vertiv Down 14%, Quanta Down 12% as AI Selloff Spreads to Industrials",
+      "publisher": "TIKR",
+      "link": "https://www.tikr.com/blog/caterpillar-sinks-another-6-vertiv-down-14-quanta-down-12-as-ai-selloff-spreads-to-industrials?ref=yahoofinance&tlnk=yf-261105-pp3h85x2",
+      "published": "2026-11-05T21:31:06Z"
+    },
+    {
+      "title": "The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar’s Valuation Tells Us.",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-110426/card/the-election-flipped-congress-it-also-flipped-the-market--UT83eYXvz6tWwUwCZ2Mp?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-04T21:04:15Z"
+      "link": "https://www.barrons.com/articles/ai-stock-selloff-caterpillar-valuation-analysis-20904e44?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T19:27:00Z"
+    }
+  ],
+  "CDW": [
+    {
+      "title": "What Just Happened To CDW Stock?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/cdw/articles/623013/what-just-happened-to-cdw-stock/2026-11-05",
+      "published": "2026-11-05T15:49:21Z"
     },
     {
-      "title": "Cummins Earnings Ahead: What Past Reactions Say About The Stock",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/cmi/articles/622475/cummins-earnings-ahead-what-past-reactions-say-about-the-stock/2026-11-04",
-      "published": "2026-11-04T20:14:50Z"
+      "title": "CDW Stock Earnings Beat Has The Bull Case Changed?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-stock-earnings-beat-bull-121852998.html",
+      "published": "2026-11-05T12:18:52Z"
+    },
+    {
+      "title": "CDW Just Raised Its Dividend 8%. Is This Tech Stock a Hidden Gem?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/05/cdw-just-raised-its-dividend-8-is-this-tech-stock-a-hidden-gem/",
+      "published": "2026-11-05T11:47:14Z"
     }
   ],
   "COIN": [
     {
-      "title": "Solana Foundation payments lead: Banks will hold cash on-chain",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/crypto/innovation/solana-foundation-payments-lead-banks-will-hold-cash-on-chain",
-      "published": "2026-11-04T23:40:11Z"
+      "title": "Coinbase makes a bigger push into crypto derivatives",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/coinbase-makes-bigger-push-crypto-190100780.html",
+      "published": "2026-11-05T19:01:00Z"
     },
     {
-      "title": "Coinbase gets downgraded for a breach that happened elsewhere",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/coinbase-gets-downgraded-for-a-breach-that-happened-elsewhere",
-      "published": "2026-11-04T22:47:00Z"
+      "title": "US Fintech Weekly: Fiserv Bounces Post-Earnings, Crypto Brokers Suffer, And Federal Agencies Prepare Innovation Guidelines",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-fintech-weekly-fiserv-bounces-post-earnings-crypto-brokers-suffer-and-federal-agencies-prepare-innovation-guidelines/cNG1yBQR94Y",
+      "published": "2026-11-05T23:09:25Z"
     },
     {
-      "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/bitcoin-cryptocurrency-midterm-elections-2026-house-senate-democrat-control-outlook-ai-data-center/?src=A00220&yptr=yahoo",
-      "published": "2026-11-04T21:24:53Z"
-    }
-  ],
-  "DVA": [
-    {
-      "title": "5 Best Warren Buffett Stocks With Upside Potential",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-warren-buffett-stocks-163334295.html",
-      "published": "2026-11-03T16:33:34Z"
-    },
-    {
-      "title": "What Does DaVita (DVA) Stock Risk From The HHS Reform Probe?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/healthcare/articles/does-davita-dva-stock-risk-151442428.html",
-      "published": "2026-11-01T15:14:42Z"
-    },
-    {
-      "title": "DVA Q3 deep dive: technology investment and integrated care strategy drive guidance shift",
-      "publisher": "StockStory",
-      "link": "https://finance.yahoo.com/healthcare/articles/dva-q3-deep-dive-technology-032300463.html",
-      "published": "2026-11-01T03:23:00Z"
-    }
-  ],
-  "EL": [
-    {
-      "title": "3 Growth Stocks With Earnings Growth Over 24% To Watch",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-211446096.html",
-      "published": "2026-11-04T21:14:46Z"
-    },
-    {
-      "title": "Estée Lauder Raises FY27 Outlook, Maps Path to 18.5% Margin by 2030",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/event-este-lauder-raises-fy27-outlook-maps-path-to-185-margin-by-2030-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published": "2026-11-04T16:14:48Z"
-    },
-    {
-      "title": "KHC Q3 Earnings Top Estimates, Emerging Markets Sales Rise",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/khc-q3-earnings-top-estimates-150500280.html",
-      "published": "2026-11-04T15:05:00Z"
-    }
-  ],
-  "HD": [
-    {
-      "title": "Housing stocks rally following midterm elections, Treasury yields dip lower",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/article/housing-stocks-rally-following-midterm-elections-treasury-yields-dip-lower-171937967.html",
-      "published": "2026-11-04T17:19:37Z"
-    },
-    {
-      "title": "The Dow’s Big Winners Today",
+      "title": "Bitcoin Slides 5% as Tech Rout Deepens",
       "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/the-dow-s-big-winners-today-n8DIkW6wC8p63dGJAmwp?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-04T23:45:02Z"
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/bitcoin-slides-5-as-tech-rout-deepens-VSGTMlaRNM4CyUL59vnX?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T22:26:13Z"
+    }
+  ],
+  "FCX": [
+    {
+      "title": "Liz Ann Sonders Says “Rotation Is the New Momentum Trade.” Here’s Where Money Could Move Next",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/05/liz-ann-sonders-says-rotation-is-the-new-momentum-trade-heres-where-money-could-move-next/",
+      "published": "2026-11-05T14:19:49Z"
     },
     {
-      "title": "Here’s What Democrats Taking Back the House and Senate Could Mean for Housing Stocks Like Home Depot and Lowe’s",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/04/heres-what-democrats-taking-back-the-house-and-senate-could-mean-for-housing-stocks-like-home-depot-and-lowes/",
-      "published": "2026-11-04T22:00:29Z"
+      "title": "Are Basic Materials Stocks Lagging  FreeportMcMoRan (FCX) This Year?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/basic-materials-stocks-lagging-freeportmcmoran-134003432.html",
+      "published": "2026-11-05T13:40:03Z"
+    },
+    {
+      "title": "Wall Street Analysts Think Freeport-McMoRan (FCX) Is a Good Investment: Is It?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-freeport-133002578.html",
+      "published": "2026-11-05T13:30:02Z"
+    }
+  ],
+  "HOOD": [
+    {
+      "title": "US Fintech Weekly: Fiserv Bounces Post-Earnings, Crypto Brokers Suffer, And Federal Agencies Prepare Innovation Guidelines",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-fintech-weekly-fiserv-bounces-post-earnings-crypto-brokers-suffer-and-federal-agencies-prepare-innovation-guidelines/cNG1yBQR94Y",
+      "published": "2026-11-05T23:09:25Z"
+    },
+    {
+      "title": "Trader suffers eight liquidations as panic selling grips markets",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/crypto/markets/trader-suffers-eight-liquidations-as-panic-selling-grips-markets",
+      "published": "2026-11-05T21:49:59Z"
+    },
+    {
+      "title": "Robinhood Sinks 10%, SoFi Down 8% as Bitcoin Slides and Fintech Stocks Sell Off",
+      "publisher": "TIKR",
+      "link": "https://www.tikr.com/blog/robinhood-sinks-10-sofi-down-8-as-bitcoin-slides-and-fintech-stocks-sell-off?ref=yahoofinance&tlnk=yf-261105-hw3fq234",
+      "published": "2026-11-05T21:25:04Z"
+    }
+  ],
+  "INTC": [
+    {
+      "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/intels-stock-crash-shares-an-uncanny-resemblance-to-its-2000-bust-215941388.html",
+      "published": "2026-11-05T21:59:41Z"
+    },
+    {
+      "title": "Intel (INTC) Brings Hardware Backed Security To EdgeAI And Sharpens Xeon AI Case",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html",
+      "published": "2026-11-06T02:21:04Z"
+    },
+    {
+      "title": "Chip Stocks Fall on AI Regulation Fears",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T22:33:13Z"
     }
   ],
   "JPM": [
     {
-      "title": "What Does JPMorgan Chase (JPM) Gain From Its Dubai Push And US Hires?",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-jpmorgan-chase-jpm-gain-221337549.html",
-      "published": "2026-11-04T22:13:37Z"
+      "title": "OpenAI Could Go Public In 2027 As Greg Brockman Signals IPO Readiness",
+      "publisher": "Benzinga Private Markets",
+      "link": "https://www.benzinga.com/markets/private-markets/26/11/62957030/openai-could-go-public-in-2027-as-greg-brockman-signals-ipo-readiness?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "published": "2026-11-05T22:06:12Z"
     },
     {
-      "title": "JPMorgan Trading Desk Sees Tech Rebounding After Midterms",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-trading-desk-sees-tech-144533066.html",
-      "published": "2026-11-04T14:45:33Z"
+      "title": "Financial Services Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T21:55:00Z"
     },
     {
-      "title": "Morgan Stanley Tokenizes U.S. Equities",
-      "publisher": "CryptoProwl",
-      "link": "https://www.cryptoprowl.com/releases/morgan-stanley-tokenizes-us-equities-7645",
-      "published": "2026-11-04T14:39:00Z"
+      "title": "Bank Earnings Have Entered the Upside-Down",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/05/bank-earnings-have-entered-the-upside-down/",
+      "published": "2026-11-05T20:09:42Z"
     }
   ],
-  "MSFT": [
+  "MRNA": [
     {
-      "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
+      "title": "October jobs report and earnings from Moderna and Humana: What to Watch",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/october-jobs-report-earnings-moderna-010000755.html",
+      "published": "2026-11-06T01:00:00Z"
+    },
+    {
+      "title": "Prothena (PRTA) Reports Q3 Loss, Misses Revenue Estimates",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prothena-prta-reports-q3-loss-000021269.html",
+      "published": "2026-11-06T00:00:21Z"
+    },
+    {
+      "title": "Earnings live updates: Airbnb stock jumps as Wall Street cheers 'growth mode,' upbeat outlook",
       "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
-      "published": "2026-11-04T15:25:48Z"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
-      "published": "2026-11-05T02:33:01Z"
-    },
-    {
-      "title": "Arista Networks stock gets fresh backing from Jim Cramer and Wall Street",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/investing/stocks/arista-networks-stock-gets-fresh-backing-from-jim-cramer-and-wall-street-anet",
-      "published": "2026-11-05T00:45:05Z"
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+      "published": "2026-11-02T21:28:56Z"
     }
   ],
   "MU": [
     {
-      "title": "Micron (MU) Stock Looks Near Fair Value Despite AI Optimism",
+      "title": "Micron stock sinks 17% as chip sector crashes",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
+      "published": "2026-11-05T16:31:37Z"
+    },
+    {
+      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+      "published": "2026-11-05T13:31:00Z"
+    },
+    {
+      "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html",
+      "published": "2026-11-05T18:02:50Z"
+    }
+  ],
+  "NVDA": [
+    {
+      "title": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
+      "published": "2026-11-06T02:37:55Z"
+    },
+    {
+      "title": "Should You Buy Nvidia Stock Before Nov. 17?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/",
+      "published": "2026-11-06T02:20:00Z"
+    },
+    {
+      "title": "The 2027 Tax Brackets Are Worth $384,000 to a 61-Year-Old With $35 Million. Here’s Why.",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/05/the-2027-tax-brackets-are-worth-384000-to-a-61-year-old-with-35-million-heres-why/",
+      "published": "2026-11-06T02:06:18Z"
+    }
+  ],
+  "ORCL": [
+    {
+      "title": "Big Tech's massive AI spending is causing another problem for investors",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/big-techs-massive-ai-spending-is-causing-another-problem-for-investors-171909548.html",
+      "published": "2026-11-05T17:19:09Z"
+    },
+    {
+      "title": "Our Pick Of The Best Cash Flow Stocks In November 2026",
       "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-near-021122807.html",
-      "published": "2026-11-05T02:11:22Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cash-flow-stocks-012043415.html",
+      "published": "2026-11-06T01:20:43Z"
     },
     {
-      "title": "Is the Market Bottoming? 3 Tells to Watch",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-bottoming-3-tells-watch-010300254.html",
-      "published": "2026-11-05T01:03:00Z"
+      "title": "3 Value Stocks With Up To 38% Discount To Fair Value",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-38-discount-011948981.html",
+      "published": "2026-11-06T01:19:48Z"
+    }
+  ],
+  "PLTR": [
+    {
+      "title": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/palantir-and-crowdstrike-stocks-tumble-as-wall-street-dumps-softwares-ai-winners-173540737.html",
+      "published": "2026-11-05T17:35:40Z"
     },
     {
-      "title": "Q3 Earnings Scorecard: Solid Beats, Upward Revisions, and AI Drivers",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-scorecard-solid-beats-233900397.html",
-      "published": "2026-11-04T23:39:00Z"
+      "title": "Palantir Is Down 16% From Its High. History Suggests This Is What Happens Next.",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/05/palantir-is-down-16-from-its-high-history-suggests/",
+      "published": "2026-11-06T00:05:00Z"
+    },
+    {
+      "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stock-movers-8b39c82b?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-05T22:12:00Z"
     }
   ],
   "QCOM": [
     {
-      "title": "Qualcomm tops Q4 estimates, but Q1 earnings outlook falls short",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/qualcomm-tops-q4-estimates-but-q1-earnings-outlook-falls-short-211716293.html",
-      "published": "2026-11-04T17:33:20Z"
-    },
-    {
-      "title": "Qualcomm, SpaceX deal could reshape the future of 5G",
+      "title": "Qualcomm CFO outlines AI's next big transformation: A new type of personal device",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/qualcomm-spacex-deal-could-reshape-the-future-of-5g-150706555.html",
-      "published": "2026-11-04T15:07:06Z"
+      "link": "https://finance.yahoo.com/video/qualcomm-cfo-outlines-ais-next-big-transformation-a-new-type-of-personal-device-215605977.html",
+      "published": "2026-11-05T21:56:05Z"
     },
     {
-      "title": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier",
+      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
       "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/spacex-inks-qualcomm-deal-putting-starlink-closer-to-becoming-the-fourth-major-us-wireless-carrier-133000731.html",
-      "published": "2026-11-04T13:30:00Z"
+      "link": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html",
+      "published": "2026-11-05T13:31:00Z"
+    },
+    {
+      "title": "Qualcomm profits hit by supply costs, US jobs data, and a return of the bulls after the midterms",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/qualcomm-profits-hit-by-supply-costs-us-jobs-data-and-a-return-of-the-bulls-after-the-midterms-144628233.html",
+      "published": "2026-11-05T14:46:28Z"
     }
   ],
   "SMCI": [
     {
-      "title": "Supermicro tops Q1 estimates, offers strong Q2 outlook",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/supermicro-tops-q1-estimates-offers-strong-q2-outlook-220213885.html",
-      "published": "2026-11-03T19:53:15Z"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Stock Sinks After Q1 Results Expose Cash Strain",
+      "title": "Supermicro Stock In Focus After Earnings Beat And Higher 2027 Sales Outlook",
       "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-021318613.html",
-      "published": "2026-11-05T02:13:18Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-focus-earnings-beat-231854930.html",
+      "published": "2026-11-05T23:18:54Z"
     },
     {
-      "title": "Super Micro Stock Has Disappointed for a Year: Why Raymond James Sees 107% Upside",
+      "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-tumbles-ibm-supermicro-184550220.html",
+      "published": "2026-11-05T18:45:50Z"
+    },
+    {
+      "title": "Super Micro Sinks 10%, ASE Technology Holding Co. Down 17%, Celestica Down 13% as AI Hardware Selloff Deepens",
       "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/super-micro-stock-has-disappointed-for-a-year-why-raymond-james-sees-107-upside?ref=yahoofinance&tlnk=yf-261104-jfggrq63",
-      "published": "2026-11-04T20:24:33Z"
+      "link": "https://www.tikr.com/blog/super-micro-sinks-10-ase-technology-holding-co-down-17-celestica-down-13-as-ai-hardware-selloff-deepens?ref=yahoofinance&tlnk=yf-261105-w9h82c47",
+      "published": "2026-11-05T17:02:38Z"
+    }
+  ],
+  "SOFI": [
+    {
+      "title": "Could $1,000 in XRP Today Be Worth $10,000 by 2030?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/05/could-1000-in-xrp-today-be-worth-10000-by-2030/",
+      "published": "2026-11-06T00:23:07Z"
+    },
+    {
+      "title": "How Much Will One Bitcoin Be Worth in 2030?",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/05/how-much-will-one-bitcoin-be-worth-in-2030-2/",
+      "published": "2026-11-05T23:13:14Z"
+    },
+    {
+      "title": "Robinhood Sinks 10%, SoFi Down 8% as Bitcoin Slides and Fintech Stocks Sell Off",
+      "publisher": "TIKR",
+      "link": "https://www.tikr.com/blog/robinhood-sinks-10-sofi-down-8-as-bitcoin-slides-and-fintech-stocks-sell-off?ref=yahoofinance&tlnk=yf-261105-hw3fq234",
+      "published": "2026-11-05T21:25:04Z"
     }
   ],
   "SOXL": [
+    {
+      "title": "Stock Market Today: Rotation Away From AI Stocks Increases as Money Flows to AI Landlords",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/05/stock-market-today-dow-sp-500-and-nasdaq-in-focus-at-the-opening-bell-2/",
+      "published": "2026-11-05T14:06:48Z"
+    },
     {
       "title": "Dow, S&P 500, Nasdaq Futures Fall As Markets Weigh A Potential Democratic Sweep In Midterms: DJT, AMD, SMCI, SOXL In Focus",
       "publisher": "Stocktwits",
@@ -271,12 +377,26 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/2026/11/03/dip-buyers-in-leveraged-tech-etfs-are-getting-crushed/",
       "published": "2026-11-03T13:35:57Z"
+    }
+  ],
+  "TSLA": [
+    {
+      "title": "Stocks slide as Wall Street's post-election rally fizzles",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html",
+      "published": "2026-11-05T21:42:50Z"
     },
     {
-      "title": "SOXL, TQQQ Attract Record Inflows Amid Leveraged Bets: Retail Is Bullish On One ETF's AI Future",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/soxl-tqqq-attract-record-inflows-amid-leveraged-bets-retail-is-bullish-on-one-etf-s-ai-future/cZUIU7uRBzn",
-      "published": "2026-10-27T05:54:03Z"
+      "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html",
+      "published": "2026-11-05T15:30:32Z"
+    },
+    {
+      "title": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/spacex-tesla-shares-extend-declines-semiconductor-stocks-drop-alphacheck-150427180.html",
+      "published": "2026-11-05T15:04:27Z"
     }
   ],
   "TSLL": [
@@ -299,44 +419,24 @@
       "published": "2026-08-03T23:19:34Z"
     }
   ],
-  "UBER": [
+  "TSM": [
     {
-      "title": "Uber stock rises despite weaker profit forecast",
+      "title": "Nvidia has lost nearly $1.4 trillion since its October record",
       "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-rises-despite-weaker-profit-forecast-163533308.html",
-      "published": "2026-11-03T17:15:53Z"
+      "link": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
+      "published": "2026-11-05T16:59:12Z"
     },
     {
-      "title": "Uber betting big on robotaxis as a means to solve its driver shortage",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/uber-betting-big-on-robotaxis-as-a-means-to-solve-its-driver-shortage-143711169.html",
-      "published": "2026-11-04T14:37:11Z"
-    },
-    {
-      "title": "Uber: 3 Key Takeaways for Long-Term Investors",
+      "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027",
       "publisher": "Motley Fool",
-      "link": "https://www.fool.com/earnings/takeaways/2026/11/04/uber-3-key-takeaways-for-long-term-investors/",
-      "published": "2026-11-05T02:19:01Z"
-    }
-  ],
-  "XOM": [
-    {
-      "title": "Joe Terranova Says “Inflation Lost” on Election Night. What That Means for Energy Stocks",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/04/joe-terranova-says-inflation-lost-on-election-night-what-that-means-for-energy-stocks/",
-      "published": "2026-11-04T22:07:08Z"
+      "link": "https://www.fool.com/coverage/better-buy/2026/11/05/advanced-micro-devices-vs-taiwan-semiconductor-manufacturing-the-ai-sell-off-is-exposing-a-critical-difference-investors-shouldn-t-ignore-for-2027/",
+      "published": "2026-11-05T20:20:02Z"
     },
     {
-      "title": "ExxonMobil Stocks Decline 3.43% as Cash Generation Exceeds Shareholder Payments",
+      "title": "TSMC Stocks Fall 7.46% Despite a $53.3 Billion Revenue Midpoint",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stocks-decline-3-43-182536007.html",
-      "published": "2026-11-04T18:25:36Z"
-    },
-    {
-      "title": "WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wmb-q3-earnings-miss-estimates-163000284.html",
-      "published": "2026-11-04T16:30:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html",
+      "published": "2026-11-05T18:58:27Z"
     }
   ]
 }
