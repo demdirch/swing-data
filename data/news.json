@@ -1,182 +1,102 @@
 {
-  "AGX": [
-    {
-      "title": "Argan (AGX) Stock Could Be Fully Priced On Strong Balance Sheet News",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argan-agx-stock-could-fully-011005312.html",
-      "published": "2026-11-12T01:10:05Z"
-    },
-    {
-      "title": "Tecogen Inc. (TGEN) Reports Q3 Loss, Beats Revenue Estimates",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tecogen-inc-tgen-reports-q3-223501495.html",
-      "published": "2026-11-11T22:35:01Z"
-    },
-    {
-      "title": "Will Argan's $0.50 Dividend Keep Shareholders Energized for More?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argans-0-50-dividend-keep-140400945.html",
-      "published": "2026-11-10T14:04:00Z"
-    }
-  ],
   "AMD": [
     {
-      "title": "Anthropic's Mythos claim may put Nvidia’s CUDA moat in a vulnerable spot",
+      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
+      "published": "2026-11-12T13:39:10Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html",
+      "published": "2026-11-12T16:26:04Z"
+    },
+    {
+      "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html",
-      "published": "2026-11-11T21:43:46Z"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
-      "published": "2026-11-12T03:07:20Z"
-    },
-    {
-      "title": "Jensen Huang’s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g",
-      "published": "2026-11-12T02:43:31Z"
+      "link": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
+      "published": "2026-11-12T15:36:56Z"
     }
   ],
-  "INTC": [
+  "AVGO": [
     {
-      "title": "Jensen Huang’s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g",
-      "published": "2026-11-12T02:43:31Z"
+      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
+      "published": "2026-11-12T13:39:10Z"
     },
     {
-      "title": "Warren Buffett’s 1991 Playbook Points The Path Forward As Nvidia Reportedly Prepares To Oust Jensen Huang. Buffett Said He Could Forgive Losses, But There Was One Thing He Would Be Ruthless About",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/warren-buffetts-1991-playbook-points-the-path-forward-as-nvidia-reportedly-prepares-to-oust-jensen-huang-buffett-said-he-could-forgive-losses-but-there-was-one-thing-he-would-be-ruthless-about/",
-      "published": "2026-11-12T02:26:06Z"
+      "title": "5 Best Growth Stocks for the Next 5 Years",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
+      "published": "2026-11-12T23:11:19Z"
     },
     {
-      "title": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/nvidias-board-is-reportedly-preparing-to-oust-jensen-huang-when-intel-and-mcdonalds-pushed-out-ceos-over-workplace-relationships-shareholders-got-opposite-results/",
-      "published": "2026-11-11T23:34:19Z"
+      "title": "Can Huang's Exit Create Chip Competition",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/video/huangs-exit-create-chip-competition-230039379.html",
+      "published": "2026-11-12T23:00:39Z"
     }
   ],
-  "MU": [
+  "COIN": [
     {
-      "title": "AI Trade bounces back, Kalshi possibly facing charges, OpenAI continues to see heavy losses",
+      "title": "Coinbase Fell 22% in a Month Before Its Charter Win: Is It Time to Sell, or Load Up?",
+      "publisher": "TIKR",
+      "link": "https://www.tikr.com/blog/coinbase-fell-22-in-a-month-before-its-charter-win-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261112-jx6xv5wr",
+      "published": "2026-11-12T16:35:39Z"
+    },
+    {
+      "title": "Coinbase (COIN) Stock Fair Value Moves Lower After Mixed Analyst Target Changes",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-coin-stock-fair-value-161026519.html",
+      "published": "2026-11-12T16:10:26Z"
+    },
+    {
+      "title": "BNY Taps Figment to Bring Staking to Institutional Custody Clients",
+      "publisher": "CryptoProwl",
+      "link": "https://www.cryptoprowl.com/releases/bny-taps-figment-to-bring-staking-to-institutional-custody-clients-7880",
+      "published": "2026-11-12T15:43:00Z"
+    }
+  ],
+  "NVDA": [
+    {
+      "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-market-cap-plunges-490-billion-following-former-ceo-huangs-affair-scandals-224412004.html",
+      "published": "2026-11-12T22:44:12Z"
+    },
+    {
+      "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/ai-trade-bounces-back-kalshi-possibly-facing-charges-openai-continues-to-see-heavy-losses-144418293.html",
-      "published": "2026-11-11T14:44:18Z"
+      "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html",
+      "published": "2026-11-12T22:19:25Z"
     },
     {
-      "title": "Jensen Huang’s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g",
-      "published": "2026-11-12T02:43:31Z"
-    },
-    {
-      "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html",
-      "published": "2026-11-12T02:21:13Z"
-    }
-  ],
-  "ORCL": [
-    {
-      "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/",
-      "published": "2026-11-11T22:45:02Z"
-    },
-    {
-      "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
-      "publisher": "decrypt",
-      "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
-      "published": "2026-11-11T22:36:03Z"
-    },
-    {
-      "title": "How Much Tax Does a 66-Year-Old Owe Selling $600,000 in Micron and Oracle Gains?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/how-much-tax-does-a-66-year-old-owe-selling-600000-in-micron-and-oracle-gains/",
-      "published": "2026-11-11T22:18:42Z"
+      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
+      "published": "2026-11-12T21:47:12Z"
     }
   ],
   "SMCI": [
     {
-      "title": "Jensen Huang’s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
+      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
+      "published": "2026-11-12T21:47:12Z"
+    },
+    {
+      "title": "Super Micro (SMCI) Takes Another Hit as Fresh Probe Weighs on Shares",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-takes-another-010718435.html",
+      "published": "2026-11-13T01:07:18Z"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
       "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g",
-      "published": "2026-11-12T02:43:31Z"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-unveils-181419192.html",
-      "published": "2026-11-11T18:14:19Z"
-    },
-    {
-      "title": "Supermicro (SMCI) Stock May Be Undervalued Following Fresh AI Server Launches",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-may-undervalued-171515034.html",
-      "published": "2026-11-11T17:15:15Z"
-    }
-  ],
-  "SOXL": [
-    {
-      "title": "The Chip Fund That Turned $10,000 Into $364,000 Just Bounced 59% Off the Worst Day in Its History. Here’s What History Says Comes Next",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/the-chip-fund-that-turned-10000-into-364000-just-bounced-59-off-the-worst-day-in-its-history-heres-what-history-says-comes-next/",
-      "published": "2026-11-11T12:56:18Z"
-    },
-    {
-      "title": "Zacks Market Edge Highlights: SOXX, BWET and CNEQ",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-soxx-082300140.html",
-      "published": "2026-11-09T08:23:00Z"
-    },
-    {
-      "title": "Eric Balchunas Calls It a “Five Alarm Fire” Sell-Off. Here’s What Record ETF Trading Tells You",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/07/eric-balchunas-calls-it-a-five-alarm-fire-sell-off-heres-what-record-etf-trading-tells-you/",
-      "published": "2026-11-07T14:17:05Z"
-    }
-  ],
-  "TSLL": [
-    {
-      "title": "ETF League Tables: Direxion Drops $95M",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-direxion-drops-95m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "published": "2026-08-28T21:00:31Z"
-    },
-    {
-      "title": "The $5 Billion Leveraged Tesla ETF That Doubles Every Move",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/08/05/the-5-billion-leveraged-tesla-etf-that-doubles-every-move/",
-      "published": "2026-08-05T10:13:14Z"
-    },
-    {
-      "title": "Single-Stock ETFs Explained: The Fastest-Growing — and Riskiest — Corner of the ETF Market",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/etf-basics/single-stock-etfs-explained-fastest-growing-and-riskiest-corner-etf-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "published": "2026-08-03T23:19:34Z"
-    }
-  ],
-  "TSM": [
-    {
-      "title": "Asian stocks extend gains but traders keep eye on Nvidia crisis",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-extend-gains-traders-025559054.html",
-      "published": "2026-11-12T02:55:59Z"
-    },
-    {
-      "title": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027?",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/better-buy/2026/11/11/dell-technologies-vs-taiwan-semiconductor-which-technology-stock-is-a-better-buy-for-2027/",
-      "published": "2026-11-11T23:50:02Z"
-    },
-    {
-      "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-11T21:58:00Z"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI",
+      "published": "2026-11-13T00:19:00Z"
     }
   ]
 }
