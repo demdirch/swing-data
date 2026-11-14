@@ -1,102 +1,82 @@
 {
   "AMD": [
     {
-      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-      "published": "2026-11-12T13:39:10Z"
-    },
-    {
-      "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html",
-      "published": "2026-11-12T16:26:04Z"
-    },
-    {
-      "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
+      "title": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
-      "published": "2026-11-12T15:36:56Z"
+      "link": "https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html",
+      "published": "2026-11-13T15:35:08Z"
+    },
+    {
+      "title": "Review & Preview: Moving On",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-14T00:55:00Z"
+    },
+    {
+      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+      "published": "2026-11-13T23:07:04Z"
     }
   ],
   "AVGO": [
     {
-      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
-      "published": "2026-11-12T13:39:10Z"
+      "title": "Review & Preview: Moving On",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-14T00:55:00Z"
     },
     {
-      "title": "5 Best Growth Stocks for the Next 5 Years",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
-      "published": "2026-11-12T23:11:19Z"
+      "title": "Can You Justify Buying Dynatrace Stock Today?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/dt/articles/624866/can-you-justify-buying-dynatrace-stock-today/2026-11-13",
+      "published": "2026-11-14T00:41:18Z"
     },
     {
-      "title": "Can Huang's Exit Create Chip Competition",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/video/huangs-exit-create-chip-competition-230039379.html",
-      "published": "2026-11-12T23:00:39Z"
+      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+      "publisher": "AFP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
+      "published": "2026-11-13T23:07:04Z"
     }
   ],
-  "COIN": [
+  "HOOD": [
     {
-      "title": "Coinbase Fell 22% in a Month Before Its Charter Win: Is It Time to Sell, or Load Up?",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/coinbase-fell-22-in-a-month-before-its-charter-win-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261112-jx6xv5wr",
-      "published": "2026-11-12T16:35:39Z"
+      "title": "Robinhood's $2.1 Billion IPO Returns To Haunt It. Supreme Court Takes Up Investor Lawsuit",
+      "publisher": "International Business Times",
+      "link": "https://www.ibtimes.com/supreme-court-robinhood-ipo-investor-lawsuit-3809760",
+      "published": "2026-11-13T22:55:31Z"
     },
     {
-      "title": "Coinbase (COIN) Stock Fair Value Moves Lower After Mixed Analyst Target Changes",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-coin-stock-fair-value-161026519.html",
-      "published": "2026-11-12T16:10:26Z"
+      "title": "Klarna Looks to Turn Things Around Ahead of Holidays With C-Suite Shakeup",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/klarna-stock-cfo-fa26b81b?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-13T21:56:00Z"
     },
     {
-      "title": "BNY Taps Figment to Bring Staking to Institutional Custody Clients",
+      "title": "Weekly Wrap: Bitcoin Falls Below $70,000 As Crypto Selling Worsens",
       "publisher": "CryptoProwl",
-      "link": "https://www.cryptoprowl.com/releases/bny-taps-figment-to-bring-staking-to-institutional-custody-clients-7880",
-      "published": "2026-11-12T15:43:00Z"
+      "link": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-falls-below-70000-as-crypto-selling-worsens-7907",
+      "published": "2026-11-13T20:21:00Z"
     }
   ],
-  "NVDA": [
+  "SOXL": [
     {
-      "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/nvidia-market-cap-plunges-490-billion-following-former-ceo-huangs-affair-scandals-224412004.html",
-      "published": "2026-11-12T22:44:12Z"
+      "title": "‘Liquidity, Concentration, Leverage Are Three Things You Can’t Put Together’: Bobby Jain as a 3x Chip ETF Falls 50% in a Month",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/11/13/liquidity-concentration-leverage-are-three-things-you-cant-put-together-bobby-jain-as-a-3x-chip-etf-falls-50-in-a-month/",
+      "published": "2026-11-13T17:46:28Z"
     },
     {
-      "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html",
-      "published": "2026-11-12T22:19:25Z"
+      "title": "Eric Balchunas Says Dip Buyers Keep Piling Into an Nvidia Fund Down 47% in a Month",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/11/13/eric-balchunas-says-dip-buyers-keep-piling-into-an-nvidia-fund-down-47-in-a-month/",
+      "published": "2026-11-13T16:52:47Z"
     },
     {
-      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
-      "published": "2026-11-12T21:47:12Z"
-    }
-  ],
-  "SMCI": [
-    {
-      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
-      "published": "2026-11-12T21:47:12Z"
-    },
-    {
-      "title": "Super Micro (SMCI) Takes Another Hit as Fresh Probe Weighs on Shares",
-      "publisher": "Insider Monkey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-takes-another-010718435.html",
-      "published": "2026-11-13T01:07:18Z"
-    },
-    {
-      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI",
-      "published": "2026-11-13T00:19:00Z"
+      "title": "Major Crypto ETFs Bled $1.5 Billion While Wall Street Went Dip Shopping",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/crypto-etf-outflows-stock-etf-inflows/",
+      "published": "2026-11-13T07:36:28Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-13T02:49+00:00",
-  "last_bar": "2026-11-12",
+  "generated_utc": "2026-11-14T02:38+00:00",
+  "last_bar": "2026-11-13",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -42,13 +42,12 @@
   "universe_size": 473,
   "loaded": 540,
   "failed": [],
-  "vix_term_ratio": 0.932,
-  "rsp_spy_rs_1m": 5.69,
+  "vix_term_ratio": 0.936,
+  "rsp_spy_rs_1m": 5.12,
   "news_tickers": [
     "AMD",
     "AVGO",
-    "COIN",
-    "NVDA",
-    "SMCI"
+    "HOOD",
+    "SOXL"
   ]
 }
