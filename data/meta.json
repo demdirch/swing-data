@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-14T02:38+00:00",
-  "last_bar": "2026-11-13",
+  "generated_utc": "2026-11-17T04:43+00:00",
+  "last_bar": "2026-11-16",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -42,12 +42,23 @@
   "universe_size": 473,
   "loaded": 540,
   "failed": [],
-  "vix_term_ratio": 0.936,
-  "rsp_spy_rs_1m": 5.12,
+  "vix_term_ratio": 0.995,
+  "rsp_spy_rs_1m": 5.31,
   "news_tickers": [
     "AMD",
-    "AVGO",
+    "CAT",
+    "COIN",
+    "FCX",
+    "GOOGL",
     "HOOD",
-    "SOXL"
+    "INTC",
+    "MU",
+    "NVDA",
+    "ORCL",
+    "PLTR",
+    "SMCI",
+    "SOXL",
+    "TSLL",
+    "TSM"
   ]
 }

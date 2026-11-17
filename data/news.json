@@ -1,65 +1,251 @@
 {
   "AMD": [
     {
-      "title": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html",
-      "published": "2026-11-13T15:35:08Z"
+      "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
+      "published": "2026-11-16T14:24:53Z"
     },
     {
-      "title": "Review & Preview: Moving On",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-14T00:55:00Z"
+      "title": "AMD finalizes $8.2 billion World Labs acquisition, adds 'godmother of AI' as EVP and chief scientist",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/amd-finalizes-82-billion-world-labs-acquisition-adds-godmother-of-ai-as-evp-and-chief-scientist-171451986.html",
+      "published": "2026-11-16T17:14:51Z"
     },
     {
-      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
-      "published": "2026-11-13T23:07:04Z"
+      "title": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-mu-skhy-avgo-chip-stocks-ease-overnight-after-selloff-on-new-us-chip-restrictions-targeting-china/cNba10cR9gA",
+      "published": "2026-11-17T04:04:20Z"
     }
   ],
-  "AVGO": [
+  "CAT": [
     {
-      "title": "Review & Preview: Moving On",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stockstoday-rotation-after-nvidia-3d0dbe00?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-14T00:55:00Z"
-    },
-    {
-      "title": "Can You Justify Buying Dynatrace Stock Today?",
+      "title": "What Has Changed In Caterpillar's Story?",
       "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/dt/articles/624866/can-you-justify-buying-dynatrace-stock-today/2026-11-13",
-      "published": "2026-11-14T00:41:18Z"
+      "link": "https://www.trefis.com/stock/cat/articles/625206/what-has-changed-in-caterpillars-story/2026-11-16",
+      "published": "2026-11-16T23:05:51Z"
     },
     {
-      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-      "publisher": "AFP",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stocks-mostly-lower-230704278.html",
-      "published": "2026-11-13T23:07:04Z"
+      "title": "Michael Burry Buys More Of Adobe And MercadoLibre; Exits ORCL, CAT Puts",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-buys-more-of-adobe-and-mercado-libre-exits-orcl-cat-puts/cNbJcE0R9gK",
+      "published": "2026-11-16T22:44:00Z"
+    },
+    {
+      "title": "Stock Market Today: Dow Dives As Nvidia Makes Huang Decision; Warren Buffett Does This",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-jensen-huang/?src=A00220&yptr=yahoo",
+      "published": "2026-11-16T21:37:46Z"
+    }
+  ],
+  "COIN": [
+    {
+      "title": "Stocks to Watch Recap: Robinhood, Nvidia, SpaceX, L3Harris",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/stocks-to-watch-nvidia-intel-spacex-QOpa7fFDgsDwemeMk9Sf?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-16T22:49:44Z"
+    },
+    {
+      "title": "Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/?src=A00220&yptr=yahoo",
+      "published": "2026-11-16T21:28:03Z"
+    },
+    {
+      "title": "Coinbase Stocks Fall 7.54% as Bitcoin Slides Toward $64,000 and Trading Volumes Shrink",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stocks-fall-7-54-185946617.html",
+      "published": "2026-11-16T18:59:46Z"
+    }
+  ],
+  "FCX": [
+    {
+      "title": "What Does Freeport McMoRan (FCX) Gain From Its British Columbia Copper Push?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/does-freeport-mcmoran-fcx-gain-031514020.html",
+      "published": "2026-11-14T03:15:14Z"
+    },
+    {
+      "title": "How Much Higher Can Newmont Stock Go From Here?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/nem/articles/624939/how-much-higher-can-newmont-stock-go-from-here/2026-11-13",
+      "published": "2026-11-13T22:09:44Z"
+    },
+    {
+      "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
+      "published": "2026-11-13T18:55:15Z"
+    }
+  ],
+  "GOOGL": [
+    {
+      "title": "Elon Musk says Larry Page’s ‘Five Nines’ AI prediction is right, despite their decade-long feud",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/investing/elon-musk-larry-page-five-nines-ai-data-center-compute-prediction",
+      "published": "2026-11-17T02:03:00Z"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire's Portfolio for a 3rd Straight Quarter, Reducing 6 Stocks and Piling Into a Hot Tech IPO",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/16/warren-buffett-successor-greg-abel-overhaul-berkshire-portfolio-3rd-straight-quarter-reduce-6-stocks-buy-hot-tech-ipo/",
+      "published": "2026-11-17T00:53:01Z"
+    },
+    {
+      "title": "Brad Gerstner Says AI Is at Its ‘Google 2005’ Moment. Here’s Who He Thinks Wins",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/16/brad-gerstner-says-ai-is-at-its-google-2005-moment-heres-who-he-thinks-wins/",
+      "published": "2026-11-17T00:07:04Z"
     }
   ],
   "HOOD": [
     {
-      "title": "Robinhood's $2.1 Billion IPO Returns To Haunt It. Supreme Court Takes Up Investor Lawsuit",
-      "publisher": "International Business Times",
-      "link": "https://www.ibtimes.com/supreme-court-robinhood-ipo-investor-lawsuit-3809760",
-      "published": "2026-11-13T22:55:31Z"
+      "title": "Market Chatter: Ex-Robinhood Engineer Pleads Guilty to Wire Fraud Over Crypto Futures Trades",
+      "publisher": "MT Newswires",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/market-chatter-ex-robinhood-engineer-002531743.html",
+      "published": "2026-11-17T00:25:31Z"
     },
     {
-      "title": "Klarna Looks to Turn Things Around Ahead of Holidays With C-Suite Shakeup",
+      "title": "Dear Klarna Stock Fans, Mark Your Calendars for November 17",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/8863212/dear-klarna-stock-fans-mark-your-calendars-for-november-17",
+      "published": "2026-11-16T21:54:09Z"
+    },
+    {
+      "title": "Robinhood dip outlook: oversold but downtrend intact after Kalshi threat",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-dip-outlook-oversold-downtrend-210039527.html",
+      "published": "2026-11-16T21:00:39Z"
+    }
+  ],
+  "INTC": [
+    {
+      "title": "Why Intel's turnaround will take years",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/why-intels-turnaround-will-take-years-192703292.html",
+      "published": "2026-11-16T19:27:03Z"
+    },
+    {
+      "title": "Jensen's possible return to Nvidia, Intel's steps and missteps",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/jensens-possible-return-to-nvidia-intels-steps-and-missteps-185150216.html",
+      "published": "2026-11-16T18:45:21Z"
+    },
+    {
+      "title": "Intel stock falls after investors file class action lawsuit against the company",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-after-investors-file-class-action-lawsuit-against-the-company-155514379.html",
+      "published": "2026-11-16T15:55:14Z"
+    }
+  ],
+  "MU": [
+    {
+      "title": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-mu-skhy-avgo-chip-stocks-ease-overnight-after-selloff-on-new-us-chip-restrictions-targeting-china/cNba10cR9gA",
+      "published": "2026-11-17T04:04:20Z"
+    },
+    {
+      "title": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo",
+      "published": "2026-11-17T03:20:17Z"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week —  NVDA, TSLA, ANT In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk",
+      "published": "2026-11-17T00:09:28Z"
+    }
+  ],
+  "NVDA": [
+    {
+      "title": "Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/nvidia-is-not-considering-rehiring-jensen-huang-and-amazons-data-center-gets-bought-221405344.html",
+      "published": "2026-11-16T22:14:05Z"
+    },
+    {
+      "title": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-valuation-looks-draconian-even-without-jensen-huang-analyst-220000337.html",
+      "published": "2026-11-16T22:00:00Z"
+    },
+    {
+      "title": "The cost of ousting a founder: Is the 'bank of Nvidia' at risk?",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/the-cost-of-ousting-a-founder-is-the-bank-of-nvidia-at-risk-214610525.html",
+      "published": "2026-11-16T21:46:10Z"
+    }
+  ],
+  "ORCL": [
+    {
+      "title": "David Tepper’s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/klarna-stock-cfo-fa26b81b?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-13T21:56:00Z"
+      "link": "https://www.barrons.com/articles/david-tepper-appaloosa-spacex-alphabet-holdings-0d829940?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-16T23:09:00Z"
     },
     {
-      "title": "Weekly Wrap: Bitcoin Falls Below $70,000 As Crypto Selling Worsens",
-      "publisher": "CryptoProwl",
-      "link": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-falls-below-70000-as-crypto-selling-worsens-7907",
-      "published": "2026-11-13T20:21:00Z"
+      "title": "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hsbc-offloads-300-million-troubled-230235524.html",
+      "published": "2026-11-16T23:02:35Z"
+    },
+    {
+      "title": "Michael Burry Buys More Of Adobe And MercadoLibre; Exits ORCL, CAT Puts",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-buys-more-of-adobe-and-mercado-libre-exits-orcl-cat-puts/cNbJcE0R9gK",
+      "published": "2026-11-16T22:44:00Z"
+    }
+  ],
+  "PLTR": [
+    {
+      "title": "3 Founder Led Stocks With Revenue Growth Over 32%",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-revenue-231953046.html",
+      "published": "2026-11-16T23:19:53Z"
+    },
+    {
+      "title": "Top 3 Growth Stocks To Watch In November 2026",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-growth-stocks-watch-211558743.html",
+      "published": "2026-11-16T21:15:58Z"
+    },
+    {
+      "title": "Top Analyst Reports for Taiwan Semiconductor, Johnson & Johnson and Palantir",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-taiwan-semiconductor-205900812.html",
+      "published": "2026-11-16T20:59:00Z"
+    }
+  ],
+  "SMCI": [
+    {
+      "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/p-500-nasdaq-futures-slide-104351968.html",
+      "published": "2026-11-16T21:20:37Z"
+    },
+    {
+      "title": "Could Nvidia Be the Next Super Micro?",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/16/could-nvidia-be-the-next-super-micro/",
+      "published": "2026-11-16T18:28:02Z"
+    },
+    {
+      "title": "AI Trade Is Tanking the S&P 500, But Average Stock Sees Monthly Gains",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/ai-trade-is-tanking-the-s-p-500-but-average-stock-sees-monthly-gains-nE5EJh3XvoNrXr6Vi0yO?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-16T16:51:11Z"
     }
   ],
   "SOXL": [
+    {
+      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html",
+      "published": "2026-11-16T21:06:10Z"
+    },
     {
       "title": "‘Liquidity, Concentration, Leverage Are Three Things You Can’t Put Together’: Bobby Jain as a 3x Chip ETF Falls 50% in a Month",
       "publisher": "24/7 Wall St.",
@@ -71,12 +257,46 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/etf/2026/11/13/eric-balchunas-says-dip-buyers-keep-piling-into-an-nvidia-fund-down-47-in-a-month/",
       "published": "2026-11-13T16:52:47Z"
+    }
+  ],
+  "TSLL": [
+    {
+      "title": "ETF League Tables: Direxion Drops $95M",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-direxion-drops-95m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "published": "2026-08-28T21:00:31Z"
     },
     {
-      "title": "Major Crypto ETFs Bled $1.5 Billion While Wall Street Went Dip Shopping",
-      "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/crypto-etf-outflows-stock-etf-inflows/",
-      "published": "2026-11-13T07:36:28Z"
+      "title": "The $5 Billion Leveraged Tesla ETF That Doubles Every Move",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/etf/2026/08/05/the-5-billion-leveraged-tesla-etf-that-doubles-every-move/",
+      "published": "2026-08-05T10:13:14Z"
+    },
+    {
+      "title": "Single-Stock ETFs Explained: The Fastest-Growing — and Riskiest — Corner of the ETF Market",
+      "publisher": "etf.com",
+      "link": "http://www.etf.com/sections/etf-basics/single-stock-etfs-explained-fastest-growing-and-riskiest-corner-etf-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+      "published": "2026-08-03T23:19:34Z"
+    }
+  ],
+  "TSM": [
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hit A Revenue High, Is The Stock Fully Valued?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-nyse-tsm-030943458.html",
+      "published": "2026-11-17T03:09:43Z"
+    },
+    {
+      "title": "Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway",
+      "publisher": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/16/taiwan-semiconductor-booked-a-record-nt587-billion-month-the-stock-has-lost-nearly-10-in-three-days-anyway/",
+      "published": "2026-11-17T00:41:10Z"
+    },
+    {
+      "title": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
+      "publisher": "Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/16/4-chip-stocks-down-as-much-as-36-from-their-highs-to-buy-and-hold-for-the-next-decade/",
+      "published": "2026-11-16T23:01:02Z"
     }
   ]
 }
