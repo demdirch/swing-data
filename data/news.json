@@ -1,62 +1,62 @@
 {
-  "COIN": [
+  "AMD": [
     {
-      "title": "Coinbase Exec Says AI IPOs Pulling Money From Bitcoin Is ‘A Reasonable Argument’ As Anthropic Debut Nears",
+      "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+      "published": "2026-11-17T22:01:59Z"
+    },
+    {
+      "title": "Why Is AMD Stock Rising Overnight?",
       "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/coinbase-exec-says-ai-ip-os-pulling-money-from-bitcoin-is-a-reasonable-argument-as-anthropic-debut-nears/cNbXV7cR9hl",
-      "published": "2026-11-18T02:36:16Z"
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-is-amd-stock-rising-overnight/cNbLtmJR9iB",
+      "published": "2026-11-19T02:05:25Z"
     },
     {
-      "title": "California voters ban new taxes after rejecting billionaire tax",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/crypto/markets/california-voters-ban-new-taxes-after-rejecting-billionaire-tax",
-      "published": "2026-11-17T23:19:56Z"
-    },
-    {
-      "title": "Stock Market Today, Nov. 17: Stocks Slide on AI Chip and Tech Pressures, Salesforce Plummets 9%",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-      "published": "2026-11-17T22:43:56Z"
+      "title": "What Explains Natera Stock's Nearly 10% Drop?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/ntra/articles/625786/what-explains-natera-stocks-nearly-10-drop/2026-11-18",
+      "published": "2026-11-18T23:48:38Z"
     }
   ],
-  "CRM": [
+  "FCX": [
     {
-      "title": "Hackers target 178 major websites with crypto-stealing code",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/hackers-target-178-major-websites-with-crypto-stealing-code-203311636.html",
-      "published": "2026-11-17T20:00:00Z"
+      "title": "Stocks to Watch Recap: Palo Alto, Nvidia, Target",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/stocks-to-watch-nvidia-coreweave-southern-copper-zoj44v0rL1LjEGK6Lp18?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-18T22:45:52Z"
     },
     {
-      "title": "CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crm-stock-faces-worst-week-since-april-fresh-layoffs-reportedly-surface-across-salesforce-teams/cNbXF3yR9hV",
-      "published": "2026-11-18T03:10:48Z"
+      "title": "Copper Prices Plunge in Worst Day in Over a Year as AI Data-Center Bets Unravel",
+      "publisher": "Barrons.com",
+      "link": "https://www.barrons.com/articles/copper-prices-nvidia-ai-southern-copper-freeport-000f64cb?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-18T18:37:00Z"
     },
     {
-      "title": "Salesforce starts fresh round of job cuts, Business Insider reports",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/technology/articles/salesforce-starts-fresh-round-job-021011575.html",
-      "published": "2026-11-18T02:10:11Z"
-    }
-  ],
-  "JD": [
-    {
-      "title": "JD.com shares tumble 6.8% to near four-week low after Q3 results",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jd-com-shares-tumble-6-023313851.html",
-      "published": "2026-11-18T02:33:13Z"
-    },
-    {
-      "title": "JD.com earnings analysis: questions answered and next catalysts",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jd-com-earnings-analysis-questions-205122566.html",
-      "published": "2026-11-17T20:51:22Z"
-    },
-    {
-      "title": "JD.com Inc (JD) (Q3 2026) Earnings Call Highlights: Revenue Returns to Growth as Retail Margin ...",
+      "title": "Freeport-McMoRan Stocks Fall 7.09% as Erste Downgrade Meets Slumping Gold",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jd-com-inc-jd-q3-190046151.html",
-      "published": "2026-11-17T19:00:46Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-stocks-fall-7-173326888.html",
+      "published": "2026-11-18T17:33:26Z"
+    }
+  ],
+  "QCOM": [
+    {
+      "title": "Marvell And Intel Halved: How Long Until They Recover?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/mrvl/articles/626099/marvell-and-intel-halved-how-long-until-they-recover/2026-11-18",
+      "published": "2026-11-18T21:29:00Z"
+    },
+    {
+      "title": "How Much Upside Is Left In Micron Stock?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/mu/articles/626211/how-much-upside-is-left-in-micron-stock-2/2026-11-18",
+      "published": "2026-11-18T21:07:42Z"
+    },
+    {
+      "title": "What Sent Intel Stock Lower Since May?",
+      "publisher": "Trefis",
+      "link": "https://www.trefis.com/stock/intc/articles/626180/what-sent-intel-stock-lower-since-may/2026-11-18",
+      "published": "2026-11-18T20:55:25Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-18T03:48+00:00",
-  "last_bar": "2026-11-17",
+  "generated_utc": "2026-11-19T03:46+00:00",
+  "last_bar": "2026-11-18",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -40,13 +40,15 @@
     "AGX"
   ],
   "universe_size": 473,
-  "loaded": 540,
-  "failed": [],
-  "vix_term_ratio": 1.019,
-  "rsp_spy_rs_1m": 5.55,
+  "loaded": 539,
+  "failed": [
+    "SNDK"
+  ],
+  "vix_term_ratio": 1.011,
+  "rsp_spy_rs_1m": 4.85,
   "news_tickers": [
-    "COIN",
-    "CRM",
-    "JD"
+    "AMD",
+    "FCX",
+    "QCOM"
   ]
 }
