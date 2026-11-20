@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-19T03:46+00:00",
-  "last_bar": "2026-11-18",
+  "generated_utc": "2026-11-20T03:40+00:00",
+  "last_bar": "2026-11-19",
   "watchlist": [
     "AAPL",
     "GOOGL",
@@ -40,15 +40,13 @@
     "AGX"
   ],
   "universe_size": 473,
-  "loaded": 539,
-  "failed": [
-    "SNDK"
-  ],
-  "vix_term_ratio": 1.011,
-  "rsp_spy_rs_1m": 4.85,
+  "loaded": 540,
+  "failed": [],
+  "vix_term_ratio": 1.052,
+  "rsp_spy_rs_1m": 5.09,
   "news_tickers": [
     "AMD",
     "FCX",
-    "QCOM"
+    "SOXL"
   ]
 }
