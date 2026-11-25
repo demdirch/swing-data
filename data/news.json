@@ -1,365 +1,271 @@
 {
+  "A": [
+    {
+      "title": "Morning Movers: Dick’s Sporting and Dollar Tree gain following quarterly reports",
+      "publisher": "TipRanks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html",
+      "published": "2026-11-24T22:00:46Z"
+    },
+    {
+      "title": "OPKO Health (OPK) Stock Is Up 6.2% Today as Health Care Stocks Rally",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/healthcare/articles/opko-health-opk-stock-6-204535594.html",
+      "published": "2026-11-24T20:45:35Z"
+    },
+    {
+      "title": "Agilent (A) Stock Looks Rich Even After Strong Demand Update",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agilent-stock-looks-rich-even-190733736.html",
+      "published": "2026-11-24T19:07:33Z"
+    }
+  ],
   "AGX": [
     {
-      "title": "Jacobs Solutions (J) Tops Q4 Earnings and Revenue Estimates",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-tops-q4-212502499.html",
-      "published": "2026-11-23T21:25:02Z"
+      "title": "Why Did Argan (AGX) Stock Slide As Attention Builds Around Its Latest Update?",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-argan-agx-stock-231812027.html",
+      "published": "2026-11-24T23:18:12Z"
     },
     {
-      "title": "EMCOR vs. Argan: Which Power Infrastructure Stock is the Better Buy?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-vs-argan-power-infrastructure-134900649.html",
-      "published": "2026-11-23T13:49:00Z"
+      "title": "Why Argan (AGX) Stock Is Down 10.1% Today: JP Morgan Cut Its Target",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-argan-agx-stock-down-170052528.html",
+      "published": "2026-11-24T17:00:52Z"
     },
     {
-      "title": "Argan Stock Trades at a Premium: Should Investors Buy or Steer Clear?",
+      "title": "Dycom Industries (DY) Tops Q3 Earnings and Revenue Estimates",
       "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argan-stock-trades-premium-investors-144200686.html",
-      "published": "2026-11-20T14:42:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dycom-industries-dy-tops-q3-121503045.html",
+      "published": "2026-11-24T12:15:03Z"
+    }
+  ],
+  "AJG": [
+    {
+      "title": "AJG Stock Gains 36.4% in Six Months: Here's What Investors Should Know",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ajg-stock-gains-36-4-160200039.html",
+      "published": "2026-11-23T16:02:00Z"
+    },
+    {
+      "title": "BRO Lags Industry, Trades at a Discount: Time to Hold or Exit?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bro-lags-industry-trades-discount-171300982.html",
+      "published": "2026-11-19T17:13:00Z"
+    },
+    {
+      "title": "Aon Strengthens Digital Claims Capabilities With Swiss Re Corporate",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/technology/articles/aon-strengthens-digital-claims-capabilities-171000157.html",
+      "published": "2026-11-19T17:10:00Z"
     }
   ],
   "AMD": [
     {
-      "title": "Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump",
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+      "published": "2026-11-24T21:45:58Z"
+    },
+    {
+      "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
       "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
-      "published": "2026-11-23T13:31:09Z"
+      "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+      "published": "2026-11-24T14:16:35Z"
     },
     {
-      "title": "Why Jensen Huang is the 'key man' behind the market rally",
+      "title": "Stocks give back gains as Anthropic dips below IPO price",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/why-jensen-huang-is-the-key-man-behind-the-market-rally-193849634.html",
-      "published": "2026-11-23T19:38:49Z"
-    },
-    {
-      "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-      "published": "2026-11-23T16:13:39Z"
+      "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
+      "published": "2026-11-24T15:44:08Z"
     }
   ],
-  "CAT": [
+  "AMGN": [
     {
-      "title": "The Midterms Put Data Center Permitting Back in Play. Here Are 2 Industrial Stocks That Win if Power Moves Behind the Meter.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/23/the-midterms-put-data-center-permitting-back-in-play-here-are-2-industrial-stocks-that-win-if-power-moves-behind-the-meter-be-cat/",
-      "published": "2026-11-24T00:31:02Z"
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Makes This Nvidia Promise; Anthropic Falls",
+      "title": "Stock Market Today: Nasdaq Dives As Jensen Huang Tells Nvidia Staff This; Walmart Tests Entry",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-crowdstrike-zscaler/?src=A00220&yptr=yahoo",
-      "published": "2026-11-23T21:56:22Z"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amd-anthropic-nvidia/?src=A00220&yptr=yahoo",
+      "published": "2026-11-24T21:51:27Z"
     },
     {
-      "title": "Caterpillar (CAT) Falls In Broad Pullback As Undervalued Narrative Stays In Focus",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-falls-broad-pullback-191143887.html",
-      "published": "2026-11-23T19:11:43Z"
-    }
-  ],
-  "CDW": [
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+      "published": "2026-11-24T21:45:58Z"
+    },
     {
-      "title": "Citi Bank Slashes Dell And HPE Price Targets Ahead Of Earnings",
+      "title": "Why Is AbbVie (ABBV) Stock Up Today? Health Care Rally as Tech Slides",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-bank-slashes-dell-hpe-180012702.html",
-      "published": "2026-11-18T18:00:12Z"
-    },
-    {
-      "title": "Should Value Investors Buy CDW (CDW) Stock?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-cdw-cdw-134004534.html",
-      "published": "2026-11-13T13:40:04Z"
-    },
-    {
-      "title": "Even $50,000 in Dividend Stocks Pays More Inside a Roth IRA. Here’s How Much More",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/even-50000-in-dividend-stocks-pays-more-inside-a-roth-ira-heres-how-much-more/",
-      "published": "2026-11-11T15:47:44Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/why-abbvie-abbv-stock-today-210038489.html",
+      "published": "2026-11-24T21:00:38Z"
     }
   ],
   "COIN": [
     {
-      "title": "Bitcoin bottoms on 4-year anniversary of FTX low: Nvidia rips 30%",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/bitcoin-bottoms-4-anniversary-ftx-170000657.html",
-      "published": "2026-11-23T17:00:00Z"
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "publisher": "TechCrunch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/supertake-raises-20m-let-ai-220205710.html",
-      "published": "2026-11-23T22:02:05Z"
-    },
-    {
-      "title": "Strategy Is Still Down 45% in a Month: Can MSTR Stock Revisit $150 as Bitcoin Holds $60,000?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/23/strategy-is-still-down-45-in-a-month-can-mstr-stock-revisit-150-as-bitcoin-holds-60000/",
-      "published": "2026-11-23T19:54:04Z"
-    }
-  ],
-  "FCX": [
-    {
-      "title": "Can Newmont Stock Climb Back To $130?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/nem/articles/627553/can-newmont-stock-climb-back-to-130/2026-11-23",
-      "published": "2026-11-23T23:53:11Z"
-    },
-    {
-      "title": "Why Did Teck Resources Stock Fall Again?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/teck/articles/627834/why-did-teck-resources-stock-fall-again/2026-11-23",
-      "published": "2026-11-23T19:49:49Z"
-    },
-    {
-      "title": "A $12 Billion Fund Dumps These 2 Stocks",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/a-12-billion-fund-dumps-these-2-stocks?ref=yahoofinance&tlnk=yf-261123-2pw8hgfj",
-      "published": "2026-11-23T16:55:42Z"
-    }
-  ],
-  "GOOGL": [
-    {
-      "title": "Google's Gemini 4 Neon gains momentum ahead of OpenAI, data shows",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/googles-gemini-4-neon-gains-momentum-ahead-of-openai-data-shows-223324082.html",
-      "published": "2026-11-23T22:33:24Z"
-    },
-    {
-      "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-      "published": "2026-11-23T16:13:02Z"
-    },
-    {
-      "title": "Not Starlink. Not Starship. This SpaceX Business Could Be Worth $80 Billion on Its Own.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/24/not-starlink-not-starship-this-spacex-business-could-be-worth-usd80-billion-on-its-own/",
-      "published": "2026-11-24T05:50:02Z"
-    }
-  ],
-  "HOOD": [
-    {
-      "title": "HOOD Stock Posts Best Gain In 2 Months — Jim Cramer Says It's ‘Too High,’ Retail Sees ‘Buying’ Opportunityc",
+      "title": "HOOD, COIN Get Wedbush Outperform Ratings: Here’s What The Firm Sees In Fintech’s Next Growth Phase",
       "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/hood-stock-posts-best-gain-in-2-months-jim-cramer-says-it-s-too-high-retail-sees-buying-opportunityc/cNbrw0fR9kG",
-      "published": "2026-11-24T04:42:04Z"
+      "link": "https://stocktwits.com/news-articles/markets/equity/robinhood-coinbase-circle-block-wedbush-price-targets-fintech-growth/cNbHcXzR9lX",
+      "published": "2026-11-25T04:33:11Z"
     },
     {
-      "title": "She Flips $100,000 of Anthropic IPO Shares at the $111.50 Open for a $34,300 Gain. The Quick Sale Could Bar Her From Future IPOs and Makes $22,700 More of Her Social Security Taxable",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/11/23/she-flips-100000-of-anthropic-ipo-shares-at-the-111-50-open-at-67-for-a-34300-gain-the-quick-sale-could-bar-her-from-future-ipos-and-makes-22700-more-of-her-social-security-taxable/",
-      "published": "2026-11-24T02:03:57Z"
+      "title": "Outlook Cut Might Change The Case For Investing In DraftKings Stock (DKNG)",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-cut-might-change-case-001554237.html",
+      "published": "2026-11-25T00:15:54Z"
     },
     {
-      "title": "DraftKings Is the Real Winner in Kalshi’s New York Fight",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/draftkings-is-the-real-winner-in-kalshis-new-york-fight?ref=yahoofinance&tlnk=yf-261123-3wxhfxgq",
-      "published": "2026-11-23T23:37:39Z"
+      "title": "Competition Started In 24/7 Trading: Andrew Cuomo",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/video/competition-started-24-7-trading-204050875.html",
+      "published": "2026-11-24T20:40:50Z"
+    }
+  ],
+  "CRM": [
+    {
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+      "publisher": "Yahoo Finance Video",
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+      "published": "2026-11-24T21:45:58Z"
+    },
+    {
+      "title": "ZoomInfo (GTM) Stock Is Up 8.3% Today Without Company News",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-gtm-stock-8-3-204534730.html",
+      "published": "2026-11-24T20:45:34Z"
+    },
+    {
+      "title": "Salesforce (CRM) Stock Looks Cheap With Earnings In Focus",
+      "publisher": "Simply Wall St.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-looks-cheap-200929233.html",
+      "published": "2026-11-24T20:09:29Z"
     }
   ],
   "INTC": [
     {
-      "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-      "published": "2026-11-23T16:13:02Z"
-    },
-    {
-      "title": "Jensen Huang’s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom – And Analysts See Risks Ahead",
+      "title": "Dell Says AI Demand Remains ‘Firm,’ Every Order ‘Fully Vetted’ – But DELL Stock Barely Moves After Beat-And-Raise Quarter",
       "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-return-as-nvidia-ceo-sparks-ai-stock-rally-but-congressional-probes-loom-and-analysts-see-risks-ahead/cNbrt2TR9ju",
-      "published": "2026-11-24T02:35:41Z"
+      "link": "https://stocktwits.com/news-articles/markets/equity/dell-says-ai-demand-remains-firm-every-order-fully-vetted-but-dell-stock-barely-moves-after-beat-and-raise-quarter/cNbu6VGR9lI",
+      "published": "2026-11-25T02:50:24Z"
     },
     {
-      "title": "What Microsoft (MSFT)'s Enterprise AI Partnerships Mean For Shareholders",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-enterprise-ai-partnerships-001743463.html",
-      "published": "2026-11-24T00:17:43Z"
-    }
-  ],
-  "J": [
-    {
-      "title": "Jacobs Solutions Inc (J) (Q4 2026) Earnings Call Highlights: Record Backlog and Double-Digit ...",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-inc-j-q4-050031282.html",
-      "published": "2026-11-24T05:00:31Z"
-    },
-    {
-      "title": "What Jacobs Solutions (J) Said on Its Q4 Earnings Call",
+      "title": "HP Q4 Earnings Call Highlights",
       "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-jacobs-solutions-j-said-on-its-q4-earnings-call-2026-11-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published": "2026-11-24T00:12:37Z"
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-hp-q4-earnings-call-highlights-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published": "2026-11-25T01:13:15Z"
     },
     {
-      "title": "Jacobs Solutions (J) Tops Q4 Earnings and Revenue Estimates",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-tops-q4-212502499.html",
-      "published": "2026-11-23T21:25:02Z"
+      "title": "Dell Technologies Q3 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-dell-technologies-q3-earnings-call-highlights-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published": "2026-11-25T00:13:36Z"
     }
   ],
-  "META": [
+  "KR": [
     {
-      "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html",
-      "published": "2026-11-23T18:59:49Z"
+      "title": "Home Depot and Lowe's copy Kroger's risky cost-cutting move",
+      "publisher": "TheStreet",
+      "link": "https://www.thestreet.com/retail/home-depot-and-lowes-quietly-send-american-jobs-to-india",
+      "published": "2026-11-25T00:17:00Z"
     },
     {
-      "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-      "published": "2026-11-23T16:13:39Z"
+      "title": "Dentsu X Retains Grocery Giant Kroger",
+      "publisher": "MediaPost",
+      "link": "https://www.mediapost.com/publications/article/419663/dentsu-x-retains-grocery-giant-kroger.html",
+      "published": "2026-11-24T18:49:01Z"
     },
     {
-      "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/spy/articles/627413/1966-or-1995-which-way-does-america-s-2-1-trillion-deficit-go/2026-11-23",
-      "published": "2026-11-24T05:06:42Z"
+      "title": "Village Super Market (VLGEA) Stock Is Up 5.0% Today Amid Grocery Rally",
+      "publisher": "GuruFocus.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-vlgea-stock-180047822.html",
+      "published": "2026-11-24T18:00:47Z"
     }
   ],
   "MU": [
     {
-      "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html",
-      "published": "2026-11-23T18:59:49Z"
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+      "published": "2026-11-24T21:45:58Z"
     },
     {
-      "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+      "title": "Stocks give back gains as Anthropic dips below IPO price",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html",
-      "published": "2026-11-23T16:13:39Z"
+      "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
+      "published": "2026-11-24T15:44:08Z"
     },
     {
-      "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-      "published": "2026-11-23T16:13:02Z"
+      "title": "South Korea's chipmakers rally on Huang's return",
+      "publisher": "IntelliNews",
+      "link": "http://www.intellinews.com/south-korea-s-chipmakers-rally-on-huang-s-return-488025/",
+      "published": "2026-11-25T03:21:23Z"
     }
   ],
   "NVDA": [
     {
-      "title": "Jensen Huang is back: Does Washington have a seat in the boardroom?",
+      "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia",
+      "publisher": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
+      "published": "2026-11-24T22:43:25Z"
+    },
+    {
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-is-back-does-washington-have-a-seat-in-the-boardroom-221214249.html",
-      "published": "2026-11-23T22:12:14Z"
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
+      "published": "2026-11-24T21:45:58Z"
     },
     {
-      "title": "Ex-Nvidia employee: 'Stability and accountability can coexist'",
+      "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
       "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/ex-nvidia-employee-stability-and-accountability-can-coexist-221105947.html",
-      "published": "2026-11-23T22:11:05Z"
-    },
-    {
-      "title": "Nvidia Stock Just Had Its Best Day in Over a Decade. I'd Still Buy It Now.",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/24/nvidia-stock-just-had-its-best-day-in-over-a-decade-i-d-still-buy-it-now/",
-      "published": "2026-11-24T06:03:02Z"
+      "link": "https://finance.yahoo.com/video/why-nvidia-is-bar-none-the-cheapest-growth-stock-in-the-market-213425021.html",
+      "published": "2026-11-24T21:34:25Z"
     }
   ],
-  "ORCL": [
+  "REGN": [
     {
-      "title": "Bloom Energy Stock What Changed in AI Data Center Demand",
+      "title": "What Regeneron Pharmaceuticals Doubters Overlooked",
       "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-changed-ai-011325575.html",
-      "published": "2026-11-24T01:13:25Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-doubters-overlooked-221722502.html",
+      "published": "2026-11-24T22:17:22Z"
     },
     {
-      "title": "Jensen Huang Is Back and Nvidia Just Soared 31%. Here’s What 6 Giant Stocks Did the Week and the Year After a Day Like This",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/23/jensen-huang-is-back-and-nvidia-just-soared-31-heres-what-6-giant-stocks-did-the-week-and-the-year-after-a-day-like-this/",
-      "published": "2026-11-23T23:22:00Z"
+      "title": "Insmed Snags A Whopping Price Tag As Sanofi Confirms Rumored Buyout",
+      "publisher": "Investor's Business Daily",
+      "link": "https://www.investors.com/news/technology/insmed-stock-sanofi-buyout/?src=A00220&yptr=yahoo",
+      "published": "2026-11-24T21:14:16Z"
     },
     {
-      "title": "Steve Eisman Says “Stock Picking Is Back” Now That AI Is “No Longer One Trade”",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/23/steve-eisman-says-stock-picking-is-back-now-that-ai-is-no-longer-one-trade/",
-      "published": "2026-11-23T22:07:02Z"
-    }
-  ],
-  "PLTR": [
-    {
-      "title": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-rebound-puts-ai-021257945.html",
-      "published": "2026-11-24T02:12:57Z"
-    },
-    {
-      "title": "Zeta Global Targets $2.3 Billion in 2028 Revenue as Organic Growth Accelerates",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/event-zeta-global-targets-23-billion-in-2028-revenue-as-organic-growth-accelerates-2026-11-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published": "2026-11-24T00:12:37Z"
-    },
-    {
-      "title": "Where the AI Trade Goes After Jensen Huang",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/ai-trade-after-jensen-huang-shift-chips-to-applications-4753c1b9?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-23T23:58:00Z"
-    }
-  ],
-  "QCOM": [
-    {
-      "title": "How Key Tech Stocks Reacted Today",
-      "publisher": "The Wall Street Journal",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/here-s-how-key-tech-stocks-are-reacting-to-jensen-huang-s-return-RG61uJgWg989HwP2qtPK?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-23T21:23:41Z"
-    },
-    {
-      "title": "How NVDA Stock Rises To $235?",
-      "publisher": "Trefis",
-      "link": "https://www.trefis.com/stock/nvda/articles/627995/how-nvda-stock-rises-to-235/2026-11-23",
-      "published": "2026-11-23T17:16:38Z"
-    },
-    {
-      "title": "Qualcomm Jumps 9.8% as Chip Stocks Rally on Nvidia News on Monday",
+      "title": "Xenon (XENE) Stock Is Up 6.2% Today in Biotech Rally",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-9-8-chip-170407596.html",
-      "published": "2026-11-23T17:04:07Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/xenon-xene-stock-6-2-210054593.html",
+      "published": "2026-11-24T21:00:54Z"
     }
   ],
   "SMCI": [
     {
-      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+      "publisher": "Investing.com",
+      "link": "https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html",
+      "published": "2026-11-25T04:22:39Z"
+    },
+    {
+      "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today’s Market",
       "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-901d6342?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-23T21:27:00Z"
+      "link": "https://www.barrons.com/articles/stock-movers-0853c431?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-24T21:33:00Z"
     },
     {
-      "title": "Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/dell-wants-up-to-45-more-on-signed-ai-deals-iren-has-a-big-problem?ref=yahoofinance&tlnk=yf-261123-6945q259",
-      "published": "2026-11-23T19:38:47Z"
-    },
-    {
-      "title": "Trump Admits Falling Stocks Pushed Him to Phone Into Nvidia’s Board Meeting Himself",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/23/trump-admits-falling-stocks-pushed-him-to-phone-into-nvidias-board-meeting-himself/",
-      "published": "2026-11-23T19:32:15Z"
-    }
-  ],
-  "SOFI": [
-    {
-      "title": "Credit Card Rate Cap Might Change The Case For Investing In SoFi Stock",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/credit-card-rate-cap-might-032256757.html",
-      "published": "2026-11-24T03:22:56Z"
-    },
-    {
-      "title": "She Flips $100,000 of Anthropic IPO Shares at the $111.50 Open for a $34,300 Gain. The Quick Sale Could Bar Her From Future IPOs and Makes $22,700 More of Her Social Security Taxable",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/11/23/she-flips-100000-of-anthropic-ipo-shares-at-the-111-50-open-at-67-for-a-34300-gain-the-quick-sale-could-bar-her-from-future-ipos-and-makes-22700-more-of-her-social-security-taxable/",
-      "published": "2026-11-24T02:03:57Z"
-    },
-    {
-      "title": "Upstart Is the Real Loser in Intuit’s Credit Karma Guidance Cut",
-      "publisher": "TIKR",
-      "link": "https://www.tikr.com/blog/upstart-is-the-real-loser-in-intuits-credit-karma-guidance-cut?ref=yahoofinance&tlnk=yf-261123-v6cccm77",
-      "published": "2026-11-24T00:50:22Z"
+      "title": "Nvidia degrades U.S. national security as Chinese military snags its chips",
+      "publisher": "Fortune",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-degrades-u-national-security-194325156.html",
+      "published": "2026-11-24T19:43:25Z"
     }
   ],
   "SOXL": [
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
+      "publisher": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ",
+      "published": "2026-11-25T03:20:10Z"
+    },
     {
       "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
       "publisher": "BeInCrypto",
@@ -371,72 +277,6 @@
       "publisher": "24/7 Wall St.",
       "link": "https://247wallst.com/investing/2026/11/20/soxl-crashes-32-in-its-third-worst-day-ever-and-is-down-90-from-its-june-record-the-chip-index-it-tracks-is-down-43/",
       "published": "2026-11-20T22:03:09Z"
-    },
-    {
-      "title": "2 Leveraged ETFs Draw Options Traders as Tech Stocks Rebound",
-      "publisher": "Schaeffer's Investment Research",
-      "link": "https://finance.yahoo.com/markets/options/articles/2-leveraged-etfs-draw-options-153922003.html",
-      "published": "2026-11-19T15:39:22Z"
-    }
-  ],
-  "TSLA": [
-    {
-      "title": "Europe new car registrations rise 3.4% in Oct as EV, hybrids maintain lead- ACEA",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/europe-car-registrations-rise-3-055350520.html",
-      "published": "2026-11-24T05:53:50Z"
-    },
-    {
-      "title": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang's Return; Elon Musk-Led SpaceX, Tesla Rally",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-nvidia-jensen-huang-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo",
-      "published": "2026-11-24T03:27:54Z"
-    },
-    {
-      "title": "How to Invest in Humanoid Robots: 3 Stocks to Watch",
-      "publisher": "Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/23/how-to-invest-in-humanoid-robots-3-stocks-to-watch/",
-      "published": "2026-11-24T02:51:02Z"
-    }
-  ],
-  "TSLL": [
-    {
-      "title": "TSLL 2X Tesla ETF Is Down 50% in 2026: Can It Double to $20 from Here?",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/19/tsll-2x-tesla-etf-is-down-50-in-2026-can-it-double-to-20-from-here/",
-      "published": "2026-11-19T17:04:33Z"
-    },
-    {
-      "title": "ETF League Tables: Direxion Drops $95M",
-      "publisher": "etf.com",
-      "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-direxion-drops-95m?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-      "published": "2026-08-28T21:00:31Z"
-    },
-    {
-      "title": "The $5 Billion Leveraged Tesla ETF That Doubles Every Move",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/etf/2026/08/05/the-5-billion-leveraged-tesla-etf-that-doubles-every-move/",
-      "published": "2026-08-05T10:13:14Z"
-    }
-  ],
-  "TSM": [
-    {
-      "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html",
-      "published": "2026-11-23T16:13:02Z"
-    },
-    {
-      "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade",
-      "publisher": "Reuters",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html",
-      "published": "2026-11-24T04:16:45Z"
-    },
-    {
-      "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
-      "publisher": "Associated Press",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-wall-street-033125464.html",
-      "published": "2026-11-24T03:31:25Z"
     }
   ]
 }
