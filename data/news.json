@@ -1,282 +1,82 @@
 {
-  "A": [
-    {
-      "title": "Morning Movers: Dick’s Sporting and Dollar Tree gain following quarterly reports",
-      "publisher": "TipRanks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morning-movers-dick-sporting-dollar-220046732.html",
-      "published": "2026-11-24T22:00:46Z"
-    },
-    {
-      "title": "OPKO Health (OPK) Stock Is Up 6.2% Today as Health Care Stocks Rally",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/healthcare/articles/opko-health-opk-stock-6-204535594.html",
-      "published": "2026-11-24T20:45:35Z"
-    },
-    {
-      "title": "Agilent (A) Stock Looks Rich Even After Strong Demand Update",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agilent-stock-looks-rich-even-190733736.html",
-      "published": "2026-11-24T19:07:33Z"
-    }
-  ],
   "AGX": [
+    {
+      "title": "Can Argan's $440M Net Liquidity Fund Its Next Growth Phase?",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/argans-440m-net-liquidity-fund-165400837.html",
+      "published": "2026-11-25T16:54:00Z"
+    },
+    {
+      "title": "HCA Healthcare, GoodRx downgraded: Wall Street's top analyst calls",
+      "publisher": "The Fly",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hca-healthcare-goodrx-downgraded-wall-144025827.html",
+      "published": "2026-11-25T14:40:25Z"
+    },
     {
       "title": "Why Did Argan (AGX) Stock Slide As Attention Builds Around Its Latest Update?",
       "publisher": "Simply Wall St.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-argan-agx-stock-231812027.html",
       "published": "2026-11-24T23:18:12Z"
-    },
+    }
+  ],
+  "CDW": [
     {
-      "title": "Why Argan (AGX) Stock Is Down 10.1% Today: JP Morgan Cut Its Target",
+      "title": "CDW (CDW) Stock Is Up 5.5% Today Alongside IT Services Peers",
       "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-argan-agx-stock-down-170052528.html",
-      "published": "2026-11-24T17:00:52Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-cdw-stock-5-5-191517348.html",
+      "published": "2026-11-25T19:15:17Z"
     },
     {
-      "title": "Dycom Industries (DY) Tops Q3 Earnings and Revenue Estimates",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dycom-industries-dy-tops-q3-121503045.html",
-      "published": "2026-11-24T12:15:03Z"
-    }
-  ],
-  "AJG": [
-    {
-      "title": "AJG Stock Gains 36.4% in Six Months: Here's What Investors Should Know",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ajg-stock-gains-36-4-160200039.html",
-      "published": "2026-11-23T16:02:00Z"
+      "title": "Are Wall Street Analysts Bullish on CDW Corporation Stock?",
+      "publisher": "Barchart",
+      "link": "https://www.barchart.com/story/news/9007245/are-wall-street-analysts-bullish-on-cdw-corporation-stock",
+      "published": "2026-11-25T17:28:42Z"
     },
     {
-      "title": "BRO Lags Industry, Trades at a Discount: Time to Hold or Exit?",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bro-lags-industry-trades-discount-171300982.html",
-      "published": "2026-11-19T17:13:00Z"
-    },
-    {
-      "title": "Aon Strengthens Digital Claims Capabilities With Swiss Re Corporate",
-      "publisher": "Zacks",
-      "link": "https://finance.yahoo.com/technology/articles/aon-strengthens-digital-claims-capabilities-171000157.html",
-      "published": "2026-11-19T17:10:00Z"
-    }
-  ],
-  "AMD": [
-    {
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-      "published": "2026-11-24T21:45:58Z"
-    },
-    {
-      "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
-      "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
-      "published": "2026-11-24T14:16:35Z"
-    },
-    {
-      "title": "Stocks give back gains as Anthropic dips below IPO price",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-      "published": "2026-11-24T15:44:08Z"
-    }
-  ],
-  "AMGN": [
-    {
-      "title": "Stock Market Today: Nasdaq Dives As Jensen Huang Tells Nvidia Staff This; Walmart Tests Entry",
-      "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amd-anthropic-nvidia/?src=A00220&yptr=yahoo",
-      "published": "2026-11-24T21:51:27Z"
-    },
-    {
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-      "published": "2026-11-24T21:45:58Z"
-    },
-    {
-      "title": "Why Is AbbVie (ABBV) Stock Up Today? Health Care Rally as Tech Slides",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/healthcare/articles/why-abbvie-abbv-stock-today-210038489.html",
-      "published": "2026-11-24T21:00:38Z"
-    }
-  ],
-  "COIN": [
-    {
-      "title": "HOOD, COIN Get Wedbush Outperform Ratings: Here’s What The Firm Sees In Fintech’s Next Growth Phase",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/robinhood-coinbase-circle-block-wedbush-price-targets-fintech-growth/cNbHcXzR9lX",
-      "published": "2026-11-25T04:33:11Z"
-    },
-    {
-      "title": "Outlook Cut Might Change The Case For Investing In DraftKings Stock (DKNG)",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/outlook-cut-might-change-case-001554237.html",
-      "published": "2026-11-25T00:15:54Z"
-    },
-    {
-      "title": "Competition Started In 24/7 Trading: Andrew Cuomo",
-      "publisher": "Bloomberg",
-      "link": "https://finance.yahoo.com/video/competition-started-24-7-trading-204050875.html",
-      "published": "2026-11-24T20:40:50Z"
-    }
-  ],
-  "CRM": [
-    {
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-      "published": "2026-11-24T21:45:58Z"
-    },
-    {
-      "title": "ZoomInfo (GTM) Stock Is Up 8.3% Today Without Company News",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-gtm-stock-8-3-204534730.html",
-      "published": "2026-11-24T20:45:34Z"
-    },
-    {
-      "title": "Salesforce (CRM) Stock Looks Cheap With Earnings In Focus",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-looks-cheap-200929233.html",
-      "published": "2026-11-24T20:09:29Z"
-    }
-  ],
-  "INTC": [
-    {
-      "title": "Dell Says AI Demand Remains ‘Firm,’ Every Order ‘Fully Vetted’ – But DELL Stock Barely Moves After Beat-And-Raise Quarter",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dell-says-ai-demand-remains-firm-every-order-fully-vetted-but-dell-stock-barely-moves-after-beat-and-raise-quarter/cNbu6VGR9lI",
-      "published": "2026-11-25T02:50:24Z"
-    },
-    {
-      "title": "HP Q4 Earnings Call Highlights",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-hp-q4-earnings-call-highlights-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published": "2026-11-25T01:13:15Z"
-    },
-    {
-      "title": "Dell Technologies Q3 Earnings Call Highlights",
-      "publisher": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-dell-technologies-q3-earnings-call-highlights-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published": "2026-11-25T00:13:36Z"
-    }
-  ],
-  "KR": [
-    {
-      "title": "Home Depot and Lowe's copy Kroger's risky cost-cutting move",
-      "publisher": "TheStreet",
-      "link": "https://www.thestreet.com/retail/home-depot-and-lowes-quietly-send-american-jobs-to-india",
-      "published": "2026-11-25T00:17:00Z"
-    },
-    {
-      "title": "Dentsu X Retains Grocery Giant Kroger",
-      "publisher": "MediaPost",
-      "link": "https://www.mediapost.com/publications/article/419663/dentsu-x-retains-grocery-giant-kroger.html",
-      "published": "2026-11-24T18:49:01Z"
-    },
-    {
-      "title": "Village Super Market (VLGEA) Stock Is Up 5.0% Today Amid Grocery Rally",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/village-super-market-vlgea-stock-180047822.html",
-      "published": "2026-11-24T18:00:47Z"
+      "title": "Madison Large Cap Fund Sold CDW CORP. (CDW) Following Recent Price Recovery",
+      "publisher": "Insider Monkey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/madison-large-cap-fund-sold-154720141.html",
+      "published": "2026-11-24T15:47:20Z"
     }
   ],
   "MU": [
     {
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-      "published": "2026-11-24T21:45:58Z"
-    },
-    {
-      "title": "Stocks give back gains as Anthropic dips below IPO price",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html",
-      "published": "2026-11-24T15:44:08Z"
-    },
-    {
-      "title": "South Korea's chipmakers rally on Huang's return",
-      "publisher": "IntelliNews",
-      "link": "http://www.intellinews.com/south-korea-s-chipmakers-rally-on-huang-s-return-488025/",
-      "published": "2026-11-25T03:21:23Z"
-    }
-  ],
-  "NVDA": [
-    {
-      "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia",
+      "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
       "publisher": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/why-trump-wanted-jensen-huang-back-at-the-helm-of-nvidia-224325153.html",
-      "published": "2026-11-24T22:43:25Z"
+      "link": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html",
+      "published": "2026-11-25T13:45:18Z"
     },
     {
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html",
-      "published": "2026-11-24T21:45:58Z"
-    },
-    {
-      "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
-      "publisher": "Yahoo Finance Video",
-      "link": "https://finance.yahoo.com/video/why-nvidia-is-bar-none-the-cheapest-growth-stock-in-the-market-213425021.html",
-      "published": "2026-11-24T21:34:25Z"
-    }
-  ],
-  "REGN": [
-    {
-      "title": "What Regeneron Pharmaceuticals Doubters Overlooked",
-      "publisher": "Simply Wall St.",
-      "link": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-doubters-overlooked-221722502.html",
-      "published": "2026-11-24T22:17:22Z"
-    },
-    {
-      "title": "Insmed Snags A Whopping Price Tag As Sanofi Confirms Rumored Buyout",
+      "title": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
       "publisher": "Investor's Business Daily",
-      "link": "https://www.investors.com/news/technology/insmed-stock-sanofi-buyout/?src=A00220&yptr=yahoo",
-      "published": "2026-11-24T21:14:16Z"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+      "published": "2026-11-26T04:06:32Z"
     },
     {
-      "title": "Xenon (XENE) Stock Is Up 6.2% Today in Biotech Rally",
-      "publisher": "GuruFocus.com",
-      "link": "https://finance.yahoo.com/healthcare/articles/xenon-xene-stock-6-2-210054593.html",
-      "published": "2026-11-24T21:00:54Z"
-    }
-  ],
-  "SMCI": [
-    {
-      "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
-      "publisher": "Investing.com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html",
-      "published": "2026-11-25T04:22:39Z"
-    },
-    {
-      "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "link": "https://www.barrons.com/articles/stock-movers-0853c431?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-11-24T21:33:00Z"
-    },
-    {
-      "title": "Nvidia degrades U.S. national security as Chinese military snags its chips",
-      "publisher": "Fortune",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-degrades-u-national-security-194325156.html",
-      "published": "2026-11-24T19:43:25Z"
-    }
-  ],
-  "SOXL": [
-    {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
-      "publisher": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ",
-      "published": "2026-11-25T03:20:10Z"
-    },
-    {
-      "title": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave",
+      "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
       "publisher": "BeInCrypto",
-      "link": "https://beincrypto.com/crypto-liquidations-nvidia-sandisk-stock-bets/",
-      "published": "2026-11-21T03:42:38Z"
+      "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/",
+      "published": "2026-11-26T01:19:53Z"
+    }
+  ],
+  "ORCL": [
+    {
+      "title": "Is Oracle the First AI Casualty as It Sheds 70% of Its Value?",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/oracle-stock-falls-70-ai-debt/",
+      "published": "2026-11-26T02:15:00Z"
     },
     {
-      "title": "SOXL Crashes 32% in Its Third-Worst Day Ever and Is Down 90% From Its June Record. The Chip Index It Tracks Is Down 43%",
-      "publisher": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/20/soxl-crashes-32-in-its-third-worst-day-ever-and-is-down-90-from-its-june-record-the-chip-index-it-tracks-is-down-43/",
-      "published": "2026-11-20T22:03:09Z"
+      "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+      "publisher": "BeInCrypto",
+      "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/",
+      "published": "2026-11-26T01:19:53Z"
+    },
+    {
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "publisher": "The Wall Street Journal",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-11-25T21:48:00Z"
     }
   ]
 }
