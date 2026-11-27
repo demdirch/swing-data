@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T04:17+00:00",
+  "generated_utc": "2026-11-27T04:27+00:00",
   "last_bar": "2026-11-25",
   "watchlist": [
     "AAPL",
@@ -40,11 +40,9 @@
     "AGX"
   ],
   "universe_size": 473,
-  "loaded": 539,
-  "failed": [
-    "COPX"
-  ],
-  "vix_term_ratio": 1.076,
+  "loaded": 540,
+  "failed": [],
+  "vix_term_ratio": 1.019,
   "rsp_spy_rs_1m": 6.06,
   "news_tickers": [
     "AGX",
